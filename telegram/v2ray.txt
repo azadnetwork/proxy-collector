@@ -1,0 +1,2 @@
+vless://f1381f30-729f-4548-ae0f-ed51d35e91a6@185.143.233.200:80?encryption
+vless://3c9059c2-ccf9-4dba-b99f-f2a9eb8f6810@de.gxnetshop.ir:80?encryption
