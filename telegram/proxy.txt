@@ -1,5 +1,7 @@
-https://t.me/proxy?server=s1
-https://t.me/proxy?server=win
-https://t.me/proxy?server=195
-https://t.me/proxy?server=89
-https://t.me/proxy?server=quickrouteapp
+https://t.me/proxy?server=89.125.48.232&amp
+https://t.me/proxy?server=s1.proxytg.space&amp
+https://t.me/proxy?server=195.254.165.249&amp
+https://t.me/proxy?server=195.254.165.252&amp
+https://t.me/proxy?server=mt.corph.ru&amp
+https://t.me/proxy?server=quickrouteapp.xyz&amp
+https://t.me/proxy?server=win.sosproxy.space&amp
