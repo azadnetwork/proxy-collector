@@ -1,23 +1,36 @@
-name: Proxy Collector
+name: Telegram Scraper Bot
+
 on:
   schedule:
-    - cron: '*/15 * * * *'
-  workflow_dispatch:
+    - cron: '*/15 * * * *' # هر ۱۵ دقیقه
+  workflow_dispatch: # امکان اجرای دستی
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-      - run: pip install requests
-      - run: python scraper.py
-      - name: Push changes
+
+      - name: Install dependencies
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+          pip install requests beautifulsoup4
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add .
-          git commit -m "Update" || exit 0
+          git commit -m "Update proxies and v2ray configs: $(date)" || exit 0
           git push
