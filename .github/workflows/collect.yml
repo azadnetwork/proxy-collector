@@ -2,8 +2,8 @@ name: Telegram Scraper Bot
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # هر ۱۵ دقیقه
-  workflow_dispatch: # امکان اجرای دستی
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -13,12 +13,16 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4 # آخرین نسخه پایدار
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # آپدیت شده از v4 به v5
         with:
-          python-version: '3.9'
+          python-version: '3.11' # استفاده از نسخه جدیدتر پایتون
+
+      - name: Set Node.js Env
+        # این خط برای رفع هشداری که در عکس فرستادی اضافه شد
+        run: echo "FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true" >> $GITHUB_ENV
 
       - name: Install dependencies
         run: |
