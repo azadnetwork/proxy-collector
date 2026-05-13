@@ -26,3 +26,31 @@ socks://Og@91.222.196.8:7071#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20
 trojan://2a599135-886f-4359-bf68-0993baa990f1@79.127.82.170:443?path=%2F1000%2F10%2Fb449693f-1869-4379-946d-279f2ad95021&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd&fp=randomized&type=ws&allowInsecure=0&sni=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
 vless://5ddcc097-91f6-41b9-bdf0-af4b37c15b79@snapp.ir:8080?path=%2F&security=none&encryption=none&host=db.r6sq.ir&type=ws#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
 ==============================
+vless://6c7a6936-e302-4a2e-a32f-28762d788ec8@cdn.yuzservice.site:8880?path=%2F&security=none&encryption=none&host=cdn.yuzservice.site&type=ws#%40kakajan
+
+--- Caption ---
+vless://6c7a6936-e302-4a2e-a32f-28762d788ec8@cdn.yuzservice.site:8880?path=%2F&security=none&encryption=none&host=cdn.yuzservice.site&type=ws#%40kakajan
+==============================
+vless://6c7a6936-e302-4a2e-a32f-28762d788ec8@cdn.yuzservice.site:8880?path=%2F&security=none&encryption=none&host=cdn.yuzservice.site&type=ws#%40kakajan
+
+--- Caption ---
+vless://6c7a6936-e302-4a2e-a32f-28762d788ec8@cdn.yuzservice.site:8880?path=%2F&security=none&encryption=none&host=cdn.yuzservice.site&type=ws#%40kakajan
+==============================
+vless://be7fbd03-60cf-4cf9-88ea-28a4f91f885c@ohio9.newcallapphelper.online:80?path=%2F&security=none&encryption=none&host=ohio9.newcallapphelper.online&type=ws#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
+vless://6c7a6936-e302-4a2e-a32f-28762d788ec8@cdn.yuzservice.site:8880?path=%2F&security=none&encryption=none&host=cdn.yuzservice.site&type=ws#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
+vless://5ddcc097-91f6-41b9-bdf0-af4b37c15b79@snapp.ir:8080?path=%2F&security=none&encryption=none&host=db.r6sq.ir&type=ws#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
+
+--- Caption ---
+🎖
+ترکیبی بزنید یا نپستر
+🎖
+هرکدوم زدید دودقیقه الی سه دقیقه حتما حتما صبرکنید وصلن همشون
+vless://be7fbd03-60cf-4cf9-88ea-28a4f91f885c@ohio9.newcallapphelper.online:80?path=%2F&security=none&encryption=none&host=ohio9.newcallapphelper.online&type=ws#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
+vless://a09120c1-ca08-48a0-a2c8-2ff2f5ed75bb@193.151.145.63:32378?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
+vless://6c7a6936-e302-4a2e-a32f-28762d788ec8@cdn.yuzservice.site:8880?path=%2F&security=none&encryption=none&host=cdn.yuzservice.site&type=ws#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
+trojan://2a599135-886f-4359-bf68-0993baa990f1@79.127.82.170:443?path=%2F1000%2F10%2Fb449693f-1869-4379-946d-279f2ad95021&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd&fp=randomized&type=ws&allowInsecure=0&sni=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
+vless://a09120c1-ca08-48a0-a2c8-2ff2f5ed75bb@193.151.145.63:32378?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
+socks://Og@91.222.196.8:7071#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
+trojan://2a599135-886f-4359-bf68-0993baa990f1@79.127.82.170:443?path=%2F1000%2F10%2Fb449693f-1869-4379-946d-279f2ad95021&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd&fp=randomized&type=ws&allowInsecure=0&sni=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
+vless://5ddcc097-91f6-41b9-bdf0-af4b37c15b79@snapp.ir:8080?path=%2F&security=none&encryption=none&host=db.r6sq.ir&type=ws#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
+==============================
