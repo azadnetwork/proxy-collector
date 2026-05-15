@@ -246,3 +246,93 @@ vless://406e983f-22b9-4cb2-ab19-7b3968be0f07@starlink.tino2020.com:443?mode=auto
 vless://bbc68258-173b-4f0f-b126-f7aac6bb2db3@adler-1g.adelshoop.net:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8E%96%40kakajan%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
 @kakajan
 ==============================
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@216.24.57.1:443?path=%2F&security=tls&encryption=none&insecure=0&host=qyi.fqjd663.ggff.net&type=ws&allowInsecure=0&sni=qyi.fqjd663.ggff.net#
+
+--- Caption ---
+🔐
+ 𝗩𝟮𝗿𝗮𝘆𝗡𝗚 
+➕
+ 𝗣𝘀𝗶𝗽𝗵𝗼𝗻 
+📱
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@216.24.57.1:443?path=%2F&security=tls&encryption=none&insecure=0&host=qyi.fqjd663.ggff.net&type=ws&allowInsecure=0&sni=qyi.fqjd663.ggff.net#
+ProxyMTProtoIR
+✅
+ 
+@ProxyMTProtoIR
+==============================
+vless://8d16cdb0-8d51-4ccc-a830-ab84cb3326f7@site.solrshop.site:8080?path=%2F&security=none&encryption=none&type=ws#
+
+--- Caption ---
+💙
+V2ray
+➕
+psiphon
+📱
+vless://8d16cdb0-8d51-4ccc-a830-ab84cb3326f7@site.solrshop.site:8080?path=%2F&security=none&encryption=none&type=ws#
+@speedtunnel
+✅
+ 
+@ProxyMTProtoIR
+==============================
+vless://c4bf78f1-fb2c-4170-a715-0ebe446de5ac@185.143.233.5:2087?path=%2F&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=firefox&type=ws&allowInsecure=0&sni=sub.sesrsa.com#
+
+--- Caption ---
+💙
+V2ray
+➕
+psiphon
+📱
+vless://c4bf78f1-fb2c-4170-a715-0ebe446de5ac@185.143.233.5:2087?path=%2F&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=firefox&type=ws&allowInsecure=0&sni=sub.sesrsa.com#
+@FlashTunnelx
+✅
+ 
+@ProxyMTProtoIR
+==============================
+vless://00da4e11-82e5-46ea-91e1-d43504b6303b@snapp.ir:8080?path=%2F&security=&encryption=none&host=ups1.shahan2019.ir&type=ws#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
+vless://bbc68258-173b-4f0f-b126-f7aac6bb2db3@adler-1g.adelshoop.net:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8E%96%40kakajan%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+
+--- Caption ---
+🎖
+ترکیبی دارید بزنید یا نپستر بزنید خالی
+🎖
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NFlOWFJZUHNSR0NyY2Z3ZXVrNy9IWUN4UnhnOEE2YU1wZG1YQU1ucnViaz06MDYrN0NmeUZZRnF0V3lucTdLWVRodXFyNmpOTXg1bFpqRk1ibjc4NWJMdz0@94.183.173.225:443#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
+vless://00da4e11-82e5-46ea-91e1-d43504b6303b@snapp.ir:8080?path=%2F&security=&encryption=none&host=ups1.shahan2019.ir&type=ws#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
+vless://406e983f-22b9-4cb2-ab19-7b3968be0f07@starlink.tino2020.com:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=starlink.tino2020.com#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
+vless://bbc68258-173b-4f0f-b126-f7aac6bb2db3@adler-1g.adelshoop.net:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8E%96%40kakajan%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+@kakajan
+==============================
+vless://00da4e11-82e5-46ea-91e1-d43504b6303b@snapp.ir:8080?path=%2F&security=&encryption=none&host=ups1.shahan2019.ir&type=ws#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
+vless://bbc68258-173b-4f0f-b126-f7aac6bb2db3@adler-1g.adelshoop.net:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8E%96%40kakajan%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+vless://91964f77-dbe9-4db5-b575-1fc5229f9df3@185.143.233.5:2087?path=%2F&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=firefox&type=ws&allowInsecure=0&sni=sub.sesrsa.com#%40kakajan%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%F0%9F%8E%96
+
+--- Caption ---
+🎖
+ترکیبی بزنید
+🎖
+روش بزن کپی میشه
+🎖
+vmess://eyJhZGQiOiIxODUuMjM2LjM4LjQ0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM5ZTQyNTM3LTg2NTItNGE0Yy04NWQzLTBkMzZhYmYzOGY4OCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTk5NDYiLCJwcyI6IvCfjpbYqtix2qnbjNio24wgQGtha2FqYW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NFlOWFJZUHNSR0NyY2Z3ZXVrNy9IWUN4UnhnOEE2YU1wZG1YQU1ucnViaz06MDYrN0NmeUZZRnF0V3lucTdLWVRodXFyNmpOTXg1bFpqRk1ibjc4NWJMdz0@94.183.173.225:443#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
+vless://00da4e11-82e5-46ea-91e1-d43504b6303b@snapp.ir:8080?path=%2F&security=&encryption=none&host=ups1.shahan2019.ir&type=ws#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
+vless://406e983f-22b9-4cb2-ab19-7b3968be0f07@starlink.tino2020.com:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=starlink.tino2020.com#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
+vless://bbc68258-173b-4f0f-b126-f7aac6bb2db3@adler-1g.adelshoop.net:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8E%96%40kakajan%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+{"remarks":"
+🎖
+kakajan","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"socks","settings":{"servers":[{"address":"62.220.126.56","ota":false,"port":27251,"level":8}]},"streamSettings":{"network":"tcp"},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
+vless://91964f77-dbe9-4db5-b575-1fc5229f9df3@185.143.233.5:2087?path=%2F&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=firefox&type=ws&allowInsecure=0&sni=sub.sesrsa.com#%40kakajan%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%F0%9F%8E%96
+==============================
+vless://16a0d3d2-4b6a-4a18-be6d-12e73b7d032c@snapp.ir:8080?path=%2F&security=none&encryption=none&host=filimo.starferi.ir&type=ws#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
+vless://00da4e11-82e5-46ea-91e1-d43504b6303b@snapp.ir:8080?path=%2F&security=&encryption=none&host=ups1.shahan2019.ir&type=ws#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
+vless://bbc68258-173b-4f0f-b126-f7aac6bb2db3@adler-1g.adelshoop.net:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8E%96%40kakajan%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+
+--- Caption ---
+🎖
+ترکیبی بزنید یا داخل نپستر بزنید
+🎖
+vless://16a0d3d2-4b6a-4a18-be6d-12e73b7d032c@snapp.ir:8080?path=%2F&security=none&encryption=none&host=filimo.starferi.ir&type=ws#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NFlOWFJZUHNSR0NyY2Z3ZXVrNy9IWUN4UnhnOEE2YU1wZG1YQU1ucnViaz06MDYrN0NmeUZZRnF0V3lucTdLWVRodXFyNmpOTXg1bFpqRk1ibjc4NWJMdz0@94.183.173.225:443#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
+vless://00da4e11-82e5-46ea-91e1-d43504b6303b@snapp.ir:8080?path=%2F&security=&encryption=none&host=ups1.shahan2019.ir&type=ws#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
+vless://406e983f-22b9-4cb2-ab19-7b3968be0f07@starlink.tino2020.com:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=starlink.tino2020.com#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
+vless://bbc68258-173b-4f0f-b126-f7aac6bb2db3@adler-1g.adelshoop.net:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%8E%96%40kakajan%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+@kakajan
+==============================
