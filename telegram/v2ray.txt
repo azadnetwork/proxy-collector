@@ -737,3 +737,43 @@ vless://a09120c1-ca08-48a0-a2c8-2ff2f5ed75bb@193.151.145.63:32378?security=none&
 socks://Og@91.222.196.8:7071#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
 trojan://2a599135-886f-4359-bf68-0993baa990f1@79.127.82.170:443?path=%2F1000%2F10%2Fb449693f-1869-4379-946d-279f2ad95021&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd&fp=randomized&type=ws&allowInsecure=0&sni=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
 ==============================
+vless://ced89321-0fbd-4c55-9874-ec5f2ded420b@arvancloud.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=samrexnet.ir&path=/#
+
+--- Caption ---
+💙
+V2ray
+➕
+psiphon
+📱
+vless://ced89321-0fbd-4c55-9874-ec5f2ded420b@arvancloud.ir:80?security=none&allowInsecure=0&encryption=none&type=ws&host=samrexnet.ir&path=/#
+@ProxyMTProtoIR
+✅
+ 
+@ProxyMTProtoIR
+==============================
+vless://c91cb9a5-b428-416b-9903-623add910594@finally.dashivo.ir:8080?type=ws&encryption=none&path=%2F&host=&security=none#FlashTunnelx
+
+--- Caption ---
+💙
+V2ray
+➕
+psiphon
+📱
+vless://c91cb9a5-b428-416b-9903-623add910594@finally.dashivo.ir:8080?type=ws&encryption=none&path=%2F&host=&security=none#FlashTunnelx
+✅
+ 
+@ProxyMTProtoIR
+==============================
+vless://061183f9-a722-4707-9160-3a2ee47209b3@nobitex.ir:80?path=%2F&security=&encryption=none&host=support.mindigosupport.ir&type=ws#FlashTunnelx
+
+--- Caption ---
+💙
+V2ray
+➕
+psiphon
+📱
+vless://061183f9-a722-4707-9160-3a2ee47209b3@nobitex.ir:80?path=%2F&security=&encryption=none&host=support.mindigosupport.ir&type=ws#FlashTunnelx
+✅
+ 
+@ProxyMTProtoIR
+==============================
