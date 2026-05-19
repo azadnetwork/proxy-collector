@@ -70,3 +70,30 @@ vless://1e09c5ac-33e3-4af7-a18c-e8d03c0512e9@pov.iran-mehrbu.ir:443?path=%2Fwebp
  
 @ProxyMTProtoIR
 ==============================
+vless://675edb84-254f-48c7-bd95-0fd3542132b3@digipay.ir:8080?encryption=none&security=none&type=ws&path=%2F&host=dns-02.dl-toucan.monster#
+
+--- Caption ---
+💙
+V2ray
+➕
+psiphon
+📱
+vless://675edb84-254f-48c7-bd95-0fd3542132b3@digipay.ir:8080?encryption=none&security=none&type=ws&path=%2F&host=dns-02.dl-toucan.monster#
+@speedtunnel
+✅
+ 
+@ProxyMTProtoIR
+==============================
+vless://1e09c5ac-33e3-4af7-a18c-e8d03c0512e9@pov.iran-mehrbu.ir:443?path=%2Fwebpanel%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dog.kazem-moviez.ir&fp=chrome&type=ws&sni=dog.kazem-moviez.ir#%40ProxyMTProtoIR
+
+--- Caption ---
+💙
+V2ray
+➕
+psiphon
+📱
+vless://1e09c5ac-33e3-4af7-a18c-e8d03c0512e9@pov.iran-mehrbu.ir:443?path=%2Fwebpanel%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dog.kazem-moviez.ir&fp=chrome&type=ws&sni=dog.kazem-moviez.ir#%40ProxyMTProtoIR
+✅
+ 
+@ProxyMTProtoIR
+==============================
