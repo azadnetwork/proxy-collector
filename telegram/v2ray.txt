@@ -97,3 +97,30 @@ vless://1e09c5ac-33e3-4af7-a18c-e8d03c0512e9@pov.iran-mehrbu.ir:443?path=%2Fwebp
  
 @ProxyMTProtoIR
 ==============================
+vless://6fd4f6c9-446a-421f-afa1-7c0ec5077e12@snapp.ir:80?path=%2F&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#%40ProxyMTProtoIR%20%7C%20%D8%A8%D8%A7%DA%AF%20%D8%A8%D8%AE%D9%88%D8%B1
+
+--- Caption ---
+💙
+V2ray
+➕
+psiphon
+📱
+vless://6fd4f6c9-446a-421f-afa1-7c0ec5077e12@snapp.ir:80?path=%2F&security=none&encryption=none&host=derakhshan.molvliafor.ir&type=ws#%40ProxyMTProtoIR%20%7C%20%D8%A8%D8%A7%DA%AF%20%D8%A8%D8%AE%D9%88%D8%B1
+✅
+ 
+@ProxyMTProtoIR
+==============================
+vless://41fd3e6b-3cdc-4141-8b41-8ad2878ba740@snapp.ir:80?path=%2F&security=&encryption=none&host=sia.real-jcvps.ir&type=ws#
+
+--- Caption ---
+💙
+V2ray
+➕
+psiphon
+📱
+vless://41fd3e6b-3cdc-4141-8b41-8ad2878ba740@snapp.ir:80?path=%2F&security=&encryption=none&host=sia.real-jcvps.ir&type=ws#
+@speedtunnel
+✅
+ 
+@ProxyMTProtoIR
+==============================
