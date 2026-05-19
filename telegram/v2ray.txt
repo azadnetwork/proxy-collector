@@ -193,3 +193,17 @@ vless://29c5f367-6b0e-41bb-806a-a9f4c6edf1f6@185.143.233.43:80?encryption=none&h
  
 @ProxyMTProtoIR
 ==============================
+vless://29c5f367-6b0e-41bb-806a-a9f4c6edf1f6@185.143.233.43:80?encryption=none&host=Yaghi1.panelbaz.com&path=%2F&security=none&type=ws#
+
+--- Caption ---
+💙
+V2ray
+➕
+psiphon
+📱
+vless://29c5f367-6b0e-41bb-806a-a9f4c6edf1f6@185.143.233.43:80?encryption=none&host=Yaghi1.panelbaz.com&path=%2F&security=none&type=ws#
+@speedtunnel
+✅
+ 
+@ProxyMTProtoIR
+==============================
