@@ -326,3 +326,15 @@ https://t.me/proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2
  
 @ProxyMTProtoIR
 ==============================
+tg://proxy?server=157.180.69.178&port=8080&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d
+
+--- Caption ---
+💢
+ امروز 22 مه (May), روز جهانی مو فرفری‌هاست.
+tg://proxy?server=157.180.69.178&port=8080&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=win.sosproxy.space&port=443&secret=ee477ccce74a28c13a2ef6ec9e01510c3164726976652e676f6f676c652e636f6d
+✅
+ 
+@ProxyMTProtoIR
+==============================
