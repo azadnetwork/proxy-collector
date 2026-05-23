@@ -393,3 +393,177 @@ vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&secur
 --- Caption ---
 vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
 ==============================
+vless://a4d63fad-6df4-46e6-9efe-0dfdda7b6699@185.143.234.235:2052?path=%2F&security=none&encryption=none&host=rizzgod.familynetlame.ir&type=ws#
+
+--- Caption ---
+💙
+V2ray
+➕
+psiphon
+📱
+vless://a4d63fad-6df4-46e6-9efe-0dfdda7b6699@185.143.234.235:2052?path=%2F&security=none&encryption=none&host=rizzgod.familynetlame.ir&type=ws#
+@speedtunnel
+✅
+ 
+@ProxyMTProtoIR
+==============================
+vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=sv-1.jservices.ir#speedtunnel
+vless://5654b922-2aa3-47c2-bc60-09d59c9cf495@198.169.2.1:443?encryption=none&type=xhttp&security=tls&path=%2Fapi&host=relay-g356jz7c.vercel.app&mode=auto&sni=relay-g356jz7c.vercel.app&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#speedtunnel
+vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=sv-1.jservices.ir#speedtunnel
+trojan://8r%3C%5B9%27l6hAO%238ZQi@104.19.229.21:443?type=ws&security=tls&path=%2Ftr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev&allowInsecure=1#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.229.21:2096?encryption=none&type=ws&security=tls&path=%2F&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=1#speedtunnel
+trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=%2Fassignment&host=www.multiplydose.com&sni=www.multiplydose.com&allowInsecure=1#
+
+--- Caption ---
+💙
+V2ray
+➕
+psiphon
+📱
+vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=sv-1.jservices.ir#speedtunnel
+vless://5654b922-2aa3-47c2-bc60-09d59c9cf495@198.169.2.1:443?encryption=none&type=xhttp&security=tls&path=%2Fapi&host=relay-g356jz7c.vercel.app&mode=auto&sni=relay-g356jz7c.vercel.app&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#speedtunnel
+vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?encryption=none&type=ws&path=%2F%3Fed%3D2560&host=sv-1.jservices.ir#speedtunnel
+vless://cb8ad1f0-85ef-4659-a65d-b4e01baf587d@sbb.4nel.ir:2052?encryption=none&type=ws&path=%2F&host=sbb.4nel.ir#speedtunnel
+trojan://8r%3C%5B9%27l6hAO%238ZQi@104.19.229.21:443?type=ws&security=tls&path=%2Ftr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev&allowInsecure=1#
+@speedtunnel
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.229.21:2096?encryption=none&type=ws&security=tls&path=%2F&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&allowInsecure=1#speedtunnel
+trojan://humanity@104.19.229.21:443?type=ws&security=tls&path=%2Fassignment&host=www.multiplydose.com&sni=www.multiplydose.com&allowInsecure=1#
+@speedtunnel
+✅
+ 
+@ProxyMTProtoIR
+==============================
+vless://482e8925-e7e5-46b8-9e9e-f759b872c2e6@snappfood.ir:2052?path=%2Fws&security=none&encryption=none&host=cdnisfucka.drnimaamini.ir&type=ws#
+
+--- Caption ---
+💙
+V2ray
+➕
+psiphon
+📱
+vless://482e8925-e7e5-46b8-9e9e-f759b872c2e6@snappfood.ir:2052?path=%2Fws&security=none&encryption=none&host=cdnisfucka.drnimaamini.ir&type=ws#
+@VoltTunnelx
+✅
+ 
+@ProxyMTProtoIR
+==============================
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
+vless://dbbb5ffe-b5ce-4ce5-b731-6377dc90712d@185.143.232.122:2052?path=%2Fnews&security=none&encryption=none&host=cdn-gr.pasargardnet.ir&type=ws#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
+vless://97fdc613-af07-40ef-bfde-7052d1c90c61@fr.it-net.top:80?path=%2F&security=none&encryption=none&host=fr.it-net.top&type=ws#%40kakajan%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+vless://e08a582e-c158-46ff-0bd7-8affdfe1dfa0@bmi.ir:8080?path=%2F&security=none&encryption=none&host=cdn-665e-o0g.fars-rehan.ir&type=ws#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
+
+--- Caption ---
+🎖
+ترکیبی بزنید
+🎖
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
+socks://Og@91.222.196.8:7071#%F0%9F%8E%96%40kakajan%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+vless://dbbb5ffe-b5ce-4ce5-b731-6377dc90712d@185.143.232.122:2052?path=%2Fnews&security=none&encryption=none&host=cdn-gr.pasargardnet.ir&type=ws#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
+vless://97fdc613-af07-40ef-bfde-7052d1c90c61@fr.it-net.top:80?path=%2F&security=none&encryption=none&host=fr.it-net.top&type=ws#%40kakajan%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+vless://e08a582e-c158-46ff-0bd7-8affdfe1dfa0@bmi.ir:8080?path=%2F&security=none&encryption=none&host=cdn-665e-o0g.fars-rehan.ir&type=ws#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
+==============================
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%D9%86%DA%AF%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%D9%88%20%D9%86%D9%BE%D8%B3%D8%AA%D8%B1%20%C2%B3%C2%B2%C2%B9%20%7C%20%40Proxyking007
+
+--- Caption ---
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%D9%86%DA%AF%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%D9%88%20%D9%86%D9%BE%D8%B3%D8%AA%D8%B1%20%C2%B3%C2%B2%C2%B9%20%7C%20%40Proxyking007
+#NPV
+✅
+#V2ray
+ + 
+#Psiphon
+🎯
+Net hamrah
+🔥
+3min waiting
+🔥
+Dedicated config size: 50GB 
+📦
+✅
+#YouTube
+ . 
+#Instagram
+ . 
+#Telegram
+ ....
+🌐
+Connected to all the internets
+Join our channel to stay connected forever 
+🌐
+✅
+⭕️
+Share the channel so others can connect too
+👑
+Join our golden family:
+👇
+💎
+🚀
+🚀
+@Proxyking007
+🚀
+🚀
+==============================
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+
+--- Caption ---
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+==============================
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+
+--- Caption ---
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+==============================
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+
+--- Caption ---
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+==============================
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+
+--- Caption ---
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+==============================
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+
+--- Caption ---
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+==============================
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+
+--- Caption ---
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+==============================
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+
+--- Caption ---
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+==============================
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+
+--- Caption ---
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+==============================
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+
+--- Caption ---
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+==============================
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+
+--- Caption ---
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+==============================
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+
+--- Caption ---
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+==============================
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+
+--- Caption ---
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+==============================
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+
+--- Caption ---
+vless://689b279e-e871-4467-87a7-ecb6ca0bc1b2@pro.halotwo.shop:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=pro.halotwo.shop#%F0%9F%92%8E%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%20%DA%A9%DB%8C%…
+==============================
