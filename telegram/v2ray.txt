@@ -649,3 +649,45 @@ little-wave-e1c9.testfor1.workers.dev
 8.8.8.8
 "]},"routing":{"domainStrategy":"UseIp","rules":[],"balancers":[]}}
 ==============================
+vless://968da346-731f-4fa1-b2a1-e58c10dd29fa@milli.gold:80?type=ws&encryption=none&path=%2F&host=pan110e.redordead.ir&security=none#
+
+--- Caption ---
+💙
+V2ray
+➕
+psiphon
+📱
+vless://968da346-731f-4fa1-b2a1-e58c10dd29fa@milli.gold:80?type=ws&encryption=none&path=%2F&host=pan110e.redordead.ir&security=none#
+@speedtunnel
+✅
+ 
+@ProxyMTProtoIR
+==============================
+vless://94f0150f-d304-427a-9e46-623ca5de0e5a@snapp.ir:80?path=%2F&security=&encryption=none&host=derakhshan.molvliafor.ir&type=ws#%F0%9F%8E%96%40kakajan
+vless://bed78936-2bf2-471d-896a-f36b24ccc9d0@snapp.ir:8080?path=%2F&security=&encryption=none&host=free.cdn-hio.mom&type=ws#%F0%9F%8E%96%40kakajan
+vless://5a872059-3f6a-410e-82ed-3bd01b4832d3@snapp.ir:80?path=%2F&security=&encryption=none&host=derakhshan.molvliafor.ir&type=ws#%F0%9F%8E%96%40kakajan
+
+--- Caption ---
+🎖
+ترکیبی بزنید
+🎖
+vless://94f0150f-d304-427a-9e46-623ca5de0e5a@snapp.ir:80?path=%2F&security=&encryption=none&host=derakhshan.molvliafor.ir&type=ws#%F0%9F%8E%96%40kakajan
+vless://bed78936-2bf2-471d-896a-f36b24ccc9d0@snapp.ir:8080?path=%2F&security=&encryption=none&host=free.cdn-hio.mom&type=ws#%F0%9F%8E%96%40kakajan
+vless://5a872059-3f6a-410e-82ed-3bd01b4832d3@snapp.ir:80?path=%2F&security=&encryption=none&host=derakhshan.molvliafor.ir&type=ws#%F0%9F%8E%96%40kakajan
+{"remarks":"
+🎖
+@kakajan
+","_comment":{"remark":"Telegram | 
+@kakajan
+"},"log":{"access":"","error":"","loglevel":"info","dnsLog":false},"inbounds":[{"tag":"in_proxy","port":1080,"protocol":"socks","listen":"
+0.0.0.0
+","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":false}},{"tag":"http-in","port":10808,"listen":"::","protocol":"http"}],"outbounds":[{"tag":"proxy","protocol":"trojan","settings":{"servers":[{"address":"
+104.20.42.250
+","method":"chacha20-poly1305","ota":false,"password":"42564cc2-00a5-430a-a61d-b844b15b7b08","port":443,"level":8,"flow":""}]},"streamSettings":{"network":"ws","security":"tls","wsSettings":{"path":"/","headers":{"Host":"
+little-wave-e1c9.testfor1.workers.dev
+"}},"tlsSettings":{"allowInsecure":true,"serverName":"
+little-wave-e1c9.testfor1.workers.dev
+","alpn":["http/1.1"],"fingerprint":"ios","show":false},"sockopt":{"dialerProxy":"fragment","tcpKeepAliveIdle":100,"tcpNoDelay":true}},"mux":{"enabled":false,"concurrency":8}},{"tag":"fragment","protocol":"freedom","settings":{"domainStrategy":"AsIs","fragment":{"packets":"tlshello","length":"100-200","interval":"10-20"}},"streamSettings":{"sockopt":{"tcpKeepAliveIdle":100,"tcpNoDelay":true}}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIp"}},{"tag":"blackhole","protocol":"blackhole","settings":{}}],"dns":{"servers":["
+8.8.8.8
+"]},"routing":{"domainStrategy":"UseIp","rules":[],"balancers":[]}}
+==============================
