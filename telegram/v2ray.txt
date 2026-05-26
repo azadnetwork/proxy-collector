@@ -193,3 +193,265 @@ vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&pat
 🔥
 Dedicated…
 ==============================
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%40ProxyMTProtoIR
+
+--- Caption ---
+💙
+V2ray
+➕
+psiphon
+📱
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.7.70:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%40ProxyMTProtoIR
+✅
+ 
+@ProxyMTProtoIR
+==============================
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#vip%20harfbzaniiim
+
+--- Caption ---
+‼️
+😐
+ بعد از اینکه اینترنت بین‌الملل برای بخشی از کاربرا دوباره وصل شد، بعضی کاربرای سوپر‌اپلیکیشن‌های ایرانی به پزشکیان لقب «ناجی» دادن.
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#vip%20harfbzaniiim
+مخابرات وصل
+🛜
+✅
+ 
+@ProxyMTProtoIR
+==============================
+vless://0a072575-24fb-40e8-9b13-b67fa77d3ca6@ir.primebourse.ir:8880?path=%2F&security=none&encryption=none&type=ws#%40kakajan%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%F0%9F%90%8E
+
+--- Caption ---
+🎖
+ترکیبی بزنید
+🎖
+trojan://humanity@2.144.23.105:40443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
+socks://Og@91.222.196.8:7071#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%20%40kakajan
+socks://Og@193.151.149.247:8220#%40kakajan%F0%9F%8E%96
+vless://0a072575-24fb-40e8-9b13-b67fa77d3ca6@ir.primebourse.ir:8880?path=%2F&security=none&encryption=none&type=ws#%40kakajan%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%F0%9F%90%8E
+==============================
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.208.184:8443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8E%96%40kakajan
+
+--- Caption ---
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.208.184:8443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8E%96%40kakajan
+==============================
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%40kakajan%F0%9F%8E%96
+
+--- Caption ---
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%40kakajan%F0%9F%8E%96
+==============================
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.253.41:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#%40kakajan%F0%9F%8E%96
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.208.184:2053?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8E%96%40kakajan
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.208.184:8443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8E%96%40kakajan
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%40kakajan%F0%9F%8E%96
+
+--- Caption ---
+🎖
+لیست ویتوری 
+🎖
+ایرانسل همراه
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.253.41:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#%40kakajan%F0%9F%8E%96
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.208.184:2053?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8E%96%40kakajan
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.208.184:8443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8E%96%40kakajan
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%40kakajan%F0%9F%8E%96
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.253:443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#%40kakajan
+==============================
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.85.44.26:2053?path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&security=tls&encryption=none&insecure=0&host=sni.111000.dns.army&type=ws&allowInsecure=0&sni=sni.111000.dns.army#%40kakajan%F0%9F%8E%96
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%40kakajan%F0%9F%8E%96
+vless://Telegram-Parsashonam@104.16.7.70:443?mode=auto&path=%2Fp4r34m&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=Parsashonam.atlasq.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=Parsashonam.atlasq.ir#%40kakajan%F0%9F%8E%96
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.80.73:443?path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%40kakajan%F0%9F%8E%96
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.253.41:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#%40kakajan%F0%9F%8E%96
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.208.184:8443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8E%96%40kakajan
+
+--- Caption ---
+🎖
+لیست ویتوری ایرانسل همراه اول وایفای
+🎖
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.253:443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#%F0%9F%8E%96%40kakajan
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.85.44.26:2053?path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&security=tls&encryption=none&insecure=0&host=sni.111000.dns.army&type=ws&allowInsecure=0&sni=sni.111000.dns.army#%40kakajan%F0%9F%8E%96
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%40kakajan%F0%9F%8E%96
+vless://Telegram-Parsashonam@104.16.7.70:443?mode=auto&path=%2Fp4r34m&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=Parsashonam.atlasq.ir&fp=chrome&type=xhttp&allowInsecure=1&sni=Parsashonam.atlasq.ir#%40kakajan%F0%9F%8E%96
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.80.73:443?path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%40kakajan%F0%9F%8E%96
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.253.41:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#%40kakajan%F0%9F%8E%96
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.208.184:8443?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8E%96%40kakajan
+==============================
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%40kakajan%F0%9F%8E%96
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.16.62.25:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#%40kakajan%F0%9F%8E%96
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8E%96%40kakajan
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.208.184:443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%F0%9F%8E%96%40kakajan
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.66.47.69:443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%40kakajan%F0%9F%8E%96
+
+--- Caption ---
+🎖
+لیست کانفیگ همراه اول و ایرانسل
+🎖
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%40kakajan%F0%9F%8E%96
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.16.62.25:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#%40kakajan%F0%9F%8E%96
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8E%96%40kakajan
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.208.184:443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%F0%9F%8E%96%40kakajan
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.66.47.69:443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%40kakajan%F0%9F%8E%96
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.248.253:443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.111000.v6.navy&type=ws&allowInsecure=1&sni=sni.111000.v6.navy#%F0%9F%8E%96%40kakajan
+==============================
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.85.44.26:2053?path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&security=tls&encryption=none&insecure=0&host=sni.111000.dns.army&type=ws&allowInsecure=0&sni=sni.111000.dns.army#%40kakajan%F0%9F%8E%96
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8E%96%40kakajan
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.80.73:443?path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%40kakajan%F0%9F%8E%96
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@104.19.64.105:2053?path=%2F&security=tls&encryption=none&insecure=1&host=qyi.fqjd663.ggff.net&type=ws&allowInsecure=1&sni=qyi.fqjd663.ggff.net#%F0%9F%8E%96%40kakajan
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.6.159:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8E%96%40kakajan
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.253.41:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#%40kakajan%F0%9F%8E%96
+trojan://8r%3C%5B9%27l6hAO%238ZQi@104.16.7.70:443?path=%2Ftr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#%F0%9F%8E%96%40kakajan
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.208.184:2053?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8E%96%40kakajan
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.16.62.25:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#%40kakajan%F0%9F%8E%96
+vless://48d1cb9d-bbd4-4444-b833-6720619a117e@104.26.6.159:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nl8.bioritalin.ir&fp=chrome&type=ws&allowInsecure=0&sni=nl8.bioritalin.ir#%F0%9F%8E%96%40kakajan
+vless://48d1cb9d-bbd4-4444-b833-6720619a117e@104.16.89.120:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nl8.bioritalin.ir&fp=chrome&type=ws&allowInsecure=0&sni=nl8.bioritalin.ir#%40kakajan%F0%9F%8E%96
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%40kakajan%F0%9F%8E%96
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%40kakajan%F0%9F%8F%86
+
+--- Caption ---
+لیست کانفیگ ویتوری ایرانسل همراه اول و بقیه
+🎖
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.85.44.26:2053?path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3%3D&security=tls&encryption=none&insecure=0&host=sni.111000.dns.army&type=ws&allowInsecure=0&sni=sni.111000.dns.army#%40kakajan%F0%9F%8E%96
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8E%96%40kakajan
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.16.80.73:443?path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%40kakajan%F0%9F%8E%96
+vless://8c4604ef-749c-4b56-adf1-7da405002a21@104.19.64.105:2053?path=%2F&security=tls&encryption=none&insecure=1&host=qyi.fqjd663.ggff.net&type=ws&allowInsecure=1&sni=qyi.fqjd663.ggff.net#%F0%9F%8E%96%40kakajan
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.6.159:2096?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8E%96%40kakajan
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@162.159.253.41:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#%40kakajan%F0%9F%8E%96
+trojan://8r%3C%5B9%27l6hAO%238ZQi@104.16.7.70:443?path=%2Ftr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#%F0%9F%8E%96%40kakajan
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.208.184:2053?path=%2F&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#%F0%9F%8E%96%40kakajan
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.16.62.25:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#%40kakajan%F0%9F%8E%96
+vless://48d1cb9d-bbd4-4444-b833-6720619a117e@104.26.6.159:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nl8.bioritalin.ir&fp=chrome&type=ws&allowInsecure=0&sni=nl8.bioritalin.ir#%F0%9F%8E%96%40kakajan
+vless://48d1cb9d-bbd4-4444-b833-6720619a117e@104.16.89.120:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nl8.bioritalin.ir&fp=chrome&type=ws&allowInsecure=0&sni=nl8.bioritalin.ir#%40kakajan%F0%9F%8E%96
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%40kakajan%F0%9F%8E%96
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%40kakajan%F0%9F%8F%86
+==============================
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#%40Proxyking007%F0%9F%9A%80WiFi
+
+--- Caption ---
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#%40Proxyking007%F0%9F%9A%80WiFi
+WiFi
+🔥
+Dedicated config size: 900GB 
+📦
+🚀
+Vasleeeeeeeeeeee
+🚀
+✅
+#NPV
+✅
+#YouTube
+ . 
+#Instagram
+ . 
+#Telegram
+ ....
+🌐
+Connected to all the internets
+Join our channel to stay connected forever 
+🌐
+✅
+⭕️
+Share the channel so others can connect too
+👑
+Join our golden family:
+👇
+💎
+🚀
+🚀
+@Proxyking007
+🚀
+🚀
+==============================
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#%40Proxyking007%F0%9F%9A%80WiFi
+
+--- Caption ---
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#%40Proxyking007%F0%9F%9A%80WiFi WiFi 
+🔥
+Dedicated…
+==============================
+vless://252272d5-74df-4e86-b603-5894e9b06ef5@172.67.158.125:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=pro.nimbaha.info&fp=chrome&type=ws&allowInsecure=0&sni=PrO.nImBaHa.InFo#%40Proxyking007%F0%9F%9A%80WiFi%F0%9F%9A%80Instagram
+
+--- Caption ---
+vless://252272d5-74df-4e86-b603-5894e9b06ef5@172.67.158.125:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=pro.nimbaha.info&fp=chrome&type=ws&allowInsecure=0&sni=PrO.nImBaHa.InFo#%40Proxyking007%F0%9F%9A%80WiFi%F0%9F%9A%80Instagram
+WiFi
+🔥
+Dedicated config size: 800GB 
+📦
+🚀
+Vasleeeeeeeeeeee
+🚀
+✅
+#NPV
+✅
+#YouTube
+ . 
+#Instagram
+ . 
+#Telegram
+ ....
+🌐
+Connected to all the internets
+Join our channel to stay connected forever 
+🌐
+✅
+⭕️
+Share the channel so others can connect too
+👑
+Join our golden family:
+👇
+💎
+🚀
+🚀
+@Proxyking007
+🚀
+🚀
+==============================
+vless://252272d5-74df-4e86-b603-5894e9b06ef5@172.67.158.125:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=pro.nimbaha.info&fp=chrome&type=ws&allowInsecure=0&sni=PrO.nImBaHa.InFo#%40Proxyking007%F0%9F%9A%80WiFi%F0%9F%9A%80Instagram…
+
+--- Caption ---
+vless://252272d5-74df-4e86-b603-5894e9b06ef5@172.67.158.125:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=pro.nimbaha.info&fp=chrome&type=ws&allowInsecure=0&sni=PrO.nImBaHa.InFo#%40Proxyking007%F0%9F%9A%80WiFi%F0%9F%9A%80Instagram…
+==============================
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#%40Proxyking007%F0%9F%9A%80WiFi%F0%9F%9A%80Instagram
+
+--- Caption ---
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#%40Proxyking007%F0%9F%9A%80WiFi%F0%9F%9A%80Instagram
+WiFi
+🔥
+Dedicated config size: 800GB 
+📦
+🚀
+Vasleeeeeeeeeeee
+🚀
+⭕️
+20S waiting
+✅
+#NPV
+✅
+#YouTube
+ . 
+#Instagram
+ . 
+#Telegram
+ ....
+🌐
+Connected to all the internets
+Join our channel to stay connected forever 
+🌐
+✅
+⭕️
+Share the channel so others can connect too
+👑
+Join our golden family:
+👇
+💎
+🚀
+🚀
+@Proxyking007
+🚀
+🚀
+==============================
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#%40Proxyking007%F0%9F%9A%80WiFi%F0%9F%9A%80Instagram…
+
+--- Caption ---
+vless://406d8436-0eb9-4eb2-84fb-960e076ffba6@104.16.7.70:443?mode=stream-one&path=%2Fde&security=tls&encryption=none&insecure=0&host=de.xn--q9jyb4c.online&fp=chrome&type=xhttp&allowInsecure=0&sni=de.xn--q9jyb4c.online#%40Proxyking007%F0%9F%9A%80WiFi%F0%9F%9A%80Instagram…
+==============================
