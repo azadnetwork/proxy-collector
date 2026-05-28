@@ -790,3 +790,117 @@ vless://6f599e06-dc5d-4ba5-97be-a58078a06aa8@136.244.104.232:54711?security=none
 --- Caption ---
 vless://6f599e06-dc5d-4ba5-97be-a58078a06aa8@136.244.104.232:54711?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8E%96%40kakajan
 ==============================
+vless://2b5f8588-87f6-40af-a785-322c8fa1df77@104.16.7.70:2095?path=%2FXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXn%3Fed%3D2560&security=&encryption=none&host=sni.111000.dynv6.azazilvpn.sbs&type=ws#%40
+
+--- Caption ---
+🥇
+ویتوری متصل:
+vless://2b5f8588-87f6-40af-a785-322c8fa1df77@104.16.7.70:2095?path=%2FXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXnXn%3Fed%3D2560&security=&encryption=none&host=sni.111000.dynv6.azazilvpn.sbs&type=ws#%40 
+@ProxyMTProtoIR
+✅
+ 
+@ProxyMTProtoIR
+==============================
+vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&encryption=none&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=googdas.scroogethebest.com&sid=132c271e21324e36#
+
+--- Caption ---
+vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@93.115.25.153:443?security=reality&encryption=none&pbk=xwUK0ffpbKZ5_o_vXhZ8ErRDqvw2iVnRVSlZ-Vonkxo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=googdas.scroogethebest.com&sid=132c271e21324e36#
+vmess://eyJhZGQiOiI1MS4xOTUuMjM1LjcxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU5ZTI4Zjc4LWMzMWItNDYxMy05ZDlmLTFlNjczMmEzMWY0NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTIiLCJwcyI6InZtZXNza2hvZGFtIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+✅
+ 
+@ProxyMTProtoIR
+==============================
+vless://e4f8a283-8793-4ff7-ba4e-adc927d463fc@snapp.ir:8880?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=cd.ahwaz-game.ir#
+
+--- Caption ---
+نامحدود بزنید عشق کنید
+🤍
+vless://e4f8a283-8793-4ff7-ba4e-adc927d463fc@snapp.ir:8880?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=cd.ahwaz-game.ir#
+✅
+ 
+@ProxyMTProtoIR
+==============================
+vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#
+
+--- Caption ---
+متصل همه اپراتورا
+🥇
+vless://e258977b-e413-4718-a3af-02d75492c349@50.62.198.124:443?path=%2F&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#
+@ProxyMTProtoIR
+✅
+ 
+@ProxyMTProtoIR
+==============================
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#%40kakajan%F0%9F%8E%96
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8E%96%40kakajan
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
+vless://4e10bc3d-49d8-41c6-8fcc-e0c7a0ff1fc8@falling-buterfly.ru:443?security=reality&encryption=none&pbk=itFJL5oJVNl9sYCfhF0wuHpTjMgmF56-aOS_Zl2uBzQ&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ancient-dream.falling-buterfly.ru&sid=a86f17145680b26a#%F0%9F%8E%96%40kakajan
+trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6%3DVIM@172.237.145.189:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.237.145.189#%F0%9F%8E%96%40kakajan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMW1kWEZRcTN1NjExWklC@20.87.107.99:443#%40kakajan
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%40kakajan%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+trojan://gcuCpQfaiVeDBdWG@211.76.176.99:19128?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=yazhou10.dynu.net#%F0%9F%8E%96%40kakajan%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+
+--- Caption ---
+لیست کانفیگ های بدردبخور 
+🎖
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#%40kakajan%F0%9F%8E%96
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#%F0%9F%8E%96%40kakajan
+trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C%40kakajan
+vmess://eyJhZGQiOiJ1ay5jb25uZnVsbC5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21lIiwiaG9zdCI6IiIsImlkIjoiZDY0ZDUyYjEtMTQ0Zi00YmNlLWE2ZDctMTMyNGRlMTg3YjFiIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiLwn46WQGtha2FqYW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://4e10bc3d-49d8-41c6-8fcc-e0c7a0ff1fc8@falling-buterfly.ru:443?security=reality&encryption=none&pbk=itFJL5oJVNl9sYCfhF0wuHpTjMgmF56-aOS_Zl2uBzQ&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ancient-dream.falling-buterfly.ru&sid=a86f17145680b26a#%F0%9F%8E%96%40kakajan
+trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6%3DVIM@172.237.145.189:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.237.145.189#%F0%9F%8E%96%40kakajan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMW1kWEZRcTN1NjExWklC@20.87.107.99:443#%40kakajan
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%40kakajan%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+trojan://gcuCpQfaiVeDBdWG@211.76.176.99:19128?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=yazhou10.dynu.net#%F0%9F%8E%96%40kakajan%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+==============================
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%40kakajan%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%8E%96%40kakajan%F0%9F%8E%96
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#%40kakajan%F0%9F%8E%96
+ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ@82.38.31.189:8080#%F0%9F%8E%96%40kakajan%F0%9F%8E%96
+
+--- Caption ---
+🎖
+لیست جدید
+🎖
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.143:80?path=%2F&security=none&encryption=none&host=tt.andishehparenting.com&type=ws#%40kakajan%F0%9F%8E%96%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
+trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%8E%96%40kakajan%F0%9F%8E%96
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#%40kakajan%F0%9F%8E%96
+ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ@82.38.31.189:8080#%F0%9F%8E%96%40kakajan%F0%9F%8E%96
+==============================
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#%40kakajan%F0%9F%8E%96
+ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ@82.38.31.189:8080#%F0%9F%8E%96%40kakajan%F0%9F%8E%96
+
+--- Caption ---
+🎖
+لیست جدید ویتوری
+🎖
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#%40kakajan%F0%9F%8E%96
+ss://Y2hhY2hhMjAtcG9seTEzMDU6azFkQk9tT0I0b3FpN1VtcDM3YTFiUQ@82.38.31.189:8080#%F0%9F%8E%96%40kakajan%F0%9F%8E%96
+==============================
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#%40kakajan%F0%9F%8E%96
+vless://69ac30ba-c264-4350-87fe-62e132032e16@199.232.57.91:80?path=%2F&security=none&encryption=none&host=nleiyajji.global.ssl.fastly.net&type=ws#%F0%9F%8E%96%40kakajan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMW1kWEZRcTN1NjExWklC@20.87.107.99:443#%40kakajan
+vless://5e8c894b-1efa-48d4-85ee-9daf5d574c16@45.130.125.69:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=irannewsdaily.com.hamshahrionline.ir.irdiplomacy.ir.irandaily.ir.alef.ir.rajanews.com.irannewsdaily.com&allowInsecure=0&sni=bad-AppLicatIon22nBd8j5OK.CArBoNbLaCkBmw.Ir#%F0%9F%8E%96%40kakajan
+
+--- Caption ---
+🎖
+لیست جدید ویتوری
+🎖
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.59.177:22231?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&flow=xtls-rprx-vision-udp443&sni=r1.mizulina.top#%40kakajan%F0%9F%8E%96
+vless://69ac30ba-c264-4350-87fe-62e132032e16@199.232.57.91:80?path=%2F&security=none&encryption=none&host=nleiyajji.global.ssl.fastly.net&type=ws#%F0%9F%8E%96%40kakajan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMMW1kWEZRcTN1NjExWklC@20.87.107.99:443#%40kakajan
+trojan://humanity@2.144.19.97:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8E%96%40kakajan
+vless://5e8c894b-1efa-48d4-85ee-9daf5d574c16@45.130.125.69:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=irannewsdaily.com.hamshahrionline.ir.irdiplomacy.ir.irandaily.ir.alef.ir.rajanews.com.irannewsdaily.com&allowInsecure=0&sni=bad-AppLicatIon22nBd8j5OK.CArBoNbLaCkBmw.Ir#%F0%9F%8E%96%40kakajan
+==============================
+vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=%2FChannel----%40VPNCUSTOMIZE&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#%F0%9F%8E%96%40kakajan%F0%9F%8E%96
+trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6%3DVIM@172.237.145.189:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.237.145.189#%F0%9F%8E%96%40kakajan
+trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%8E%96%40kakajan%F0%9F%8E%96
+
+--- Caption ---
+🎖
+ویتوری
+🎖
+vless://e258977b-e413-4718-a3af-02d75492c349@45.130.125.69:2096?path=%2FChannel----%40VPNCUSTOMIZE&security=tls&encryption=none&insecure=0&host=jp.aniua.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=jp.aniua.qzz.io#%F0%9F%8E%96%40kakajan%F0%9F%8E%96
+trojan://A3uIh_5NqMg3hFa.gDYWT.afz0UuJ6%3DVIM@172.237.145.189:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=172.237.145.189#%F0%9F%8E%96%40kakajan
+trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%8E%96%40kakajan%F0%9F%8E%96
+==============================
