@@ -40,3 +40,37 @@ trojan://Mitivpn@216.24.57.6:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTA1NWU5ZTkwMzEyOGEx@57.129.129.247:19308#%F0%9F%8E%96%40kakajan
 trojan://humanity@104.18.6.147:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8E%96%40kakajan
 ==============================
+vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@fr-node.prostosetup.org:443?security=reality&encryption=none&pbk=ZSFjVI9pyqawgPY_0shmNRdTdwfBBFWRMPcrKIzyHSw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=509d#%F0%9F%8E%96%40kakajan
+vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@itaclo.konkuriran.sbs:8880?path=%2F&security=none&encryption=none&host=itcd.konkuriran.sbs&type=ws#%F0%9F%8E%96%40kakajan
+trojan://Mitivpn@216.24.57.6:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#%40kakajan%F0%9F%8E%96
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTA1NWU5ZTkwMzEyOGEx@57.129.129.247:19308#%F0%9F%8E%96%40kakajan
+trojan://humanity@104.18.6.147:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8E%96%40kakajan
+
+--- Caption ---
+🎖
+لیست جدید کانفیگ ویتوری داری بزن یا ویتوباکس بزن یا نپستر بزن
+🎖
+vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@fr-node.prostosetup.org:443?security=reality&encryption=none&pbk=ZSFjVI9pyqawgPY_0shmNRdTdwfBBFWRMPcrKIzyHSw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=509d#%F0%9F%8E%96%40kakajan
+vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@itaclo.konkuriran.sbs:8880?path=%2F&security=none&encryption=none&host=itcd.konkuriran.sbs&type=ws#%F0%9F%8E%96%40kakajan
+trojan://Mitivpn@216.24.57.6:443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#%40kakajan%F0%9F%8E%96
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTA1NWU5ZTkwMzEyOGEx@57.129.129.247:19308#%F0%9F%8E%96%40kakajan
+trojan://humanity@104.18.6.147:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8E%96%40kakajan
+==============================
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@108.162.192.236:443?security=tls&encryption=none&insecure=1&host=powered-by-surena.configfarsi6982dd6e0355e.workers.dev&type=ws&allowInsecure=1&sni=powered-by-surena.configfarsi6982dd6e0355e.workers.dev#%F0%9F%8E%96%40kakajan
+
+--- Caption ---
+🎖
+متنیش
+🎖
+☝️
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@108.162.192.236:443?security=tls&encryption=none&insecure=1&host=powered-by-surena.configfarsi6982dd6e0355e.workers.dev&type=ws&allowInsecure=1&sni=powered-by-surena.configfarsi6982dd6e0355e.workers.dev#%F0%9F%8E%96%40kakajan
+==============================
+vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@wangcai115.cloudflare.182682.xyz:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=frejd.11258.workers.dev&type=ws&sni=Telegram-channel-WangCai2#%F0%9F%8E%96%40kakajan
+
+--- Caption ---
+🎖
+متنیش
+🎖
+☝️
+vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@wangcai115.cloudflare.182682.xyz:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=frejd.11258.workers.dev&type=ws&sni=Telegram-channel-WangCai2#%F0%9F%8E%96%40kakajan
+==============================
