@@ -194,3 +194,43 @@ vless://dc308cf1-ee7e-4071-8fa5-2c1ff2e3094c@45.130.125.76:2096?mode=gun&securit
 vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@fr-node.prostosetup.org:443?security=reality&encryption=none&pbk=ZSFjVI9pyqawgPY_0shmNRdTdwfBBFWRMPcrKIzyHSw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=509d#%F0%9F%8E%96%40kakajan
 vless://54a54ea0-4409-4030-ad9b-44c45849c05a@152.89.253.239:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ya.ru#%F0%9F%8E%96%40kakajan
 ==============================
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@108.162.192.236:443?security=tls&encryption=none&insecure=1&host=powered-by-surena.configfarsi6982dd6e0355e.workers.dev&type=ws&allowInsecure=1&sni=powered-by-surena.configfarsi6982dd6e0355e.workers.dev#%F0%9F%8E%96%40kakajan
+
+--- Caption ---
+🎖
+متنیش
+🎖
+☝️
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@108.162.192.236:443?security=tls&encryption=none&insecure=1&host=powered-by-surena.configfarsi6982dd6e0355e.workers.dev&type=ws&allowInsecure=1&sni=powered-by-surena.configfarsi6982dd6e0355e.workers.dev#%F0%9F%8E%96%40kakajan
+==============================
+vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@wangcai115.cloudflare.182682.xyz:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=frejd.11258.workers.dev&type=ws&sni=Telegram-channel-WangCai2#%F0%9F%8E%96%40kakajan
+
+--- Caption ---
+🎖
+متنیش
+🎖
+☝️
+vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@wangcai115.cloudflare.182682.xyz:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=frejd.11258.workers.dev&type=ws&sni=Telegram-channel-WangCai2#%F0%9F%8E%96%40kakajan
+==============================
+vless://4e783787-4de7-51de-ae32-01ce7203b838@185.171.202.76:42652?mode=stream-one&path=%2Fskkwkqknsjejejwj&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=omm.kotlet.org&type=xhttp&allowInsecure=1&sni=yahoo.com#%F0%9F%8E%96%40kakajan
+vless://93445c0c-7a2d-4dda-8d5b-607abcd2f3b9@mountain.cloudureld.com:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=3E-un_hAqGBHqx5wKi-cy6o8uV65pf0BT_NHVrVXLno&fp=qq&type=xhttp&sni=mountain.cloudureld.com&sid=aec7ce533dadcd1a#%F0%9F%8E%96%40kakajan
+vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@itaclo.konkuriran.sbs:8880?path=%2F&security=none&encryption=none&host=itcd.konkuriran.sbs&type=ws#%F0%9F%8E%96%40kakajan
+vless://dc308cf1-ee7e-4071-8fa5-2c1ff2e3094c@45.130.125.76:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=isna.ir.jamejamonline.ir.alalamtv.net.farsnews.ir.entekhab.ir.ifpnews.com.alef.ir&allowInsecure=0&sni=WhImsIcAl-DefINiTIONPegPHM2bT5.WINDLeR.co.Uk#%F0%9F%8E%96%40kakajan
+vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@fr-node.prostosetup.org:443?security=reality&encryption=none&pbk=ZSFjVI9pyqawgPY_0shmNRdTdwfBBFWRMPcrKIzyHSw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=509d#%F0%9F%8E%96%40kakajan
+vless://54a54ea0-4409-4030-ad9b-44c45849c05a@152.89.253.239:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ya.ru#%F0%9F%8E%96%40kakajan
+
+--- Caption ---
+🎖
+لیست چندتا کانفیگ بدرد بخور
+🎖
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZdVJ0NkFYOVA0Tml1dFR3b0RNdkRUcnhJam9fbHNHcg@vip3.myspacex.shop:80#%40kakajan%F0%9F%8E%96
+vless://4e783787-4de7-51de-ae32-01ce7203b838@185.171.202.76:42652?mode=stream-one&path=%2Fskkwkqknsjejejwj&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=omm.kotlet.org&type=xhttp&allowInsecure=1&sni=yahoo.com#%F0%9F%8E%96%40kakajan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZdVJ0NkFYOVA0Tml1dFR3b0RNdkRUcnhJam9fbHNHcg@vip8.myspacex.shop:443#%F0%9F%8E%96%40kakajan
+vless://93445c0c-7a2d-4dda-8d5b-607abcd2f3b9@mountain.cloudureld.com:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=3E-un_hAqGBHqx5wKi-cy6o8uV65pf0BT_NHVrVXLno&fp=qq&type=xhttp&sni=mountain.cloudureld.com&sid=aec7ce533dadcd1a#%F0%9F%8E%96%40kakajan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZdVJ0NkFYOVA0Tml1dFR3b0RNdkRUcnhJam9fbHNHcg@vip3.myspacex.shop:20700#%40kakajan%F0%9F%8E%96
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTA1NWU5ZTkwMzEyOGEx@57.129.129.247:19308#%F0%9F%8E%96%40kakajan
+vless://b5bd7d6d-5ab9-4965-bccc-32acdbc4f714@itaclo.konkuriran.sbs:8880?path=%2F&security=none&encryption=none&host=itcd.konkuriran.sbs&type=ws#%F0%9F%8E%96%40kakajan
+vless://dc308cf1-ee7e-4071-8fa5-2c1ff2e3094c@45.130.125.76:2096?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=isna.ir.jamejamonline.ir.alalamtv.net.farsnews.ir.entekhab.ir.ifpnews.com.alef.ir&allowInsecure=0&sni=WhImsIcAl-DefINiTIONPegPHM2bT5.WINDLeR.co.Uk#%F0%9F%8E%96%40kakajan
+vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@fr-node.prostosetup.org:443?security=reality&encryption=none&pbk=ZSFjVI9pyqawgPY_0shmNRdTdwfBBFWRMPcrKIzyHSw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=509d#%F0%9F%8E%96%40kakajan
+vless://54a54ea0-4409-4030-ad9b-44c45849c05a@152.89.253.239:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ya.ru#%F0%9F%8E%96%40kakajan
+==============================
