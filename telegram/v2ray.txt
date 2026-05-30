@@ -552,3 +552,48 @@ vless://dc308cf1-ee7e-4071-8fa5-2c1ff2e3094c@45.130.125.76:2096?mode=gun&securit
 vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@fr-node.prostosetup.org:443?security=reality&encryption=none&pbk=ZSFjVI9pyqawgPY_0shmNRdTdwfBBFWRMPcrKIzyHSw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=509d#%F0%9F%8E%96%40kakajan
 vless://54a54ea0-4409-4030-ad9b-44c45849c05a@152.89.253.239:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ya.ru#%F0%9F%8E%96%40kakajan
 ==============================
+vless://936bcc04-6292-478b-b37f-c2cf37b83a55@185.143.233.122:443?path=%2Fed%3D2080&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cyrus.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus.frtshop.ir#%40kakajan%F0%9F%8E%96
+
+--- Caption ---
+vless://936bcc04-6292-478b-b37f-c2cf37b83a55@185.143.233.122:443?path=%2Fed%3D2080&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cyrus.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus.frtshop.ir#%40kakajan%F0%9F%8E%96
+==============================
+vless://936bcc04-6292-478b-b37f-c2cf37b83a55@185.143.233.122:443?path=%2Fed%3D2080&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cyrus.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus.frtshop.ir#%40kakajan%F0%9F%8E%96
+
+--- Caption ---
+vless://936bcc04-6292-478b-b37f-c2cf37b83a55@185.143.233.122:443?path=%2Fed%3D2080&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cyrus.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus.frtshop.ir#%40kakajan%F0%9F%8E%96
+==============================
+vless://395adc64-2d96-4fbb-815c-f060cbfb6aaf@strong.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=6ca7ef5aecc76a68.kiWiJuiCe.IR.&type=ws&allowInsecure=0&sni=04288f7c0370ff37.kiWiJuiCe.IR.#%F0%9F%8E%96%40kakajan
+
+--- Caption ---
+vless://395adc64-2d96-4fbb-815c-f060cbfb6aaf@strong.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=6ca7ef5aecc76a68.kiWiJuiCe.IR.&type=ws&allowInsecure=0&sni=04288f7c0370ff37.kiWiJuiCe.IR.#%F0%9F%8E%96%40kakajan
+==============================
+vless://Masir_Sefid@3.122.10.29:8083?mode=stream-one&path=%2Fx-ms%2FMasir_Sefid%2F%40Tel&security=reality&encryption=mlkem768x25519plus.native.0rtt.QWjna5-gRs06tD_AjhMjeDK8oTTBNKMFz240W1udAW4&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22uplinkHTTPMethod%22%3A%22PUT%22%2C%22sessionPlacement%22%3A%22header%22%2C%22sessionKey%22%3A%22referid-MasirSefid%22%2C%22seqPlacement%22%3A%22cookie%22%2C%22seqKey%22%3A%22invalid%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&pbk=g6TonpgUWHm4rHsY05R8CZhrz45T8deUaiAwuYLlcw0&fp=randomized&spx=%2Fid&type=xhttp&sni=store.steampowered.com&sid=f8c1ba7e90a5e1#%F0%9F%8E%96%40kakajan
+
+--- Caption ---
+vless://Masir_Sefid@3.122.10.29:8083?mode=stream-one&path=%2Fx-ms%2FMasir_Sefid%2F%40Tel&security=reality&encryption=mlkem768x25519plus.native.0rtt.QWjna5-gRs06tD_AjhMjeDK8oTTBNKMFz240W1udAW4&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22uplinkHTTPMethod%22%3A%22PUT%22%2C%22sessionPlacement%22%3A%22header%22%2C%22sessionKey%22%3A%22referid-MasirSefid%22%2C%22seqPlacement%22%3A%22cookie%22%2C%22seqKey%22%3A%22invalid%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&pbk=g6TonpgUWHm4rHsY05R8CZhrz45T8deUaiAwuYLlcw0&fp=randomized&spx=%2Fid&type=xhttp&sni=store.steampowered.com&sid=f8c1ba7e90a5e1#%F0%9F%8E%96%40kakajan
+==============================
+vless://b01c7e1f-a82e-4610-95b8-6a6edf8d6381@185.31.200.224:5980?security=reality&encryption=none&pbk=cwqkZmmI9pDPzKCCcqNxw3G68FFv4tkXFhSozmYfrgU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=surfvpn24.ru&sid=beefcafe#%F0%9F%8E%96%F0%9F%8E%96%40kakajan
+
+--- Caption ---
+vless://b01c7e1f-a82e-4610-95b8-6a6edf8d6381@185.31.200.224:5980?security=reality&encryption=none&pbk=cwqkZmmI9pDPzKCCcqNxw3G68FFv4tkXFhSozmYfrgU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=surfvpn24.ru&sid=beefcafe#%F0%9F%8E%96%F0%9F%8E%96%40kakajan
+==============================
+vless://7d8584e3-410b-4667-a9b3-9a6465d4f999@91.107.255.167:24391?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8E%96%40kakajan
+
+--- Caption ---
+vless://7d8584e3-410b-4667-a9b3-9a6465d4f999@91.107.255.167:24391?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8E%96%40kakajan
+==============================
+vless://dd929784-7045-4e06-a801-0b974e4ec0b8@165.215.250.12:80?path=%2FZiIXJAIry34Bj4i4vAY&security=none&encryption=none&host=hU.aNDisHeHpaRenTiNG.cOM&type=httpupgrade#%40kakajan%F0%9F%8E%96%F0%9F%8E%96%F0%9F%8E%96
+
+--- Caption ---
+vless://dd929784-7045-4e06-a801-0b974e4ec0b8@165.215.250.12:80?path=%2FZiIXJAIry34Bj4i4vAY&security=none&encryption=none&host=hU.aNDisHeHpaRenTiNG.cOM&type=httpupgrade#%40kakajan%F0%9F%8E%96%F0%9F%8E%96%F0%9F%8E%96
+==============================
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%8E%96%40kakajan
+
+--- Caption ---
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%8E%96%40kakajan
+==============================
+vless://d56d89ed-3c12-4367-a7b6-41637a6062bb@185.143.233.122:443?path=%2Fed%3D2080&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cyrus.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus.frtshop.ir#%F0%9F%8E%96%40kakajan
+
+--- Caption ---
+vless://d56d89ed-3c12-4367-a7b6-41637a6062bb@185.143.233.122:443?path=%2Fed%3D2080&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cyrus.frtshop.ir&fp=chrome&type=ws&allowInsecure=0&sni=cyrus.frtshop.ir#%F0%9F%8E%96%40kakajan
+==============================
