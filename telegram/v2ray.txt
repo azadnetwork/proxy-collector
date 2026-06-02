@@ -377,3 +377,70 @@ vless://79096293-1e6a-4637-81bd-5f68b10b5b81@104.19.158.39:8443?path=%2F&securit
 --- Caption ---
 vless://79096293-1e6a-4637-81bd-5f68b10b5b81@104.19.158.39:8443?path=%2F&security=tls&encryption=none&insecure=0&host=steep-dust-ab39.fdsssssssssssssssss.workers.dev&type=ws&allowInsecure=0&sni=steep-dust-ab39.fdsssssssssssssssss.workers.dev#%40kakajan
 ==============================
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%40kakajan
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=%2Ffp&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#%F0%9F%92%A56%F0%9F%92%A5%40kakajan
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8E%96%40kakajan
+vless://b39ce73c-b6e2-4035-bc10-37e30b38bed0@141.ir:2082?path=%2F&security=none&encryption=none&host=ar.arminkarimi.shop&type=ws#%40kakajan%F0%9F%8E%96%D9%87%D9%85%D8%B1%D8%A7%D9%87
+
+--- Caption ---
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%40kakajan
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=%2Ffp&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#%F0%9F%92%A56%F0%9F%92%A5%40kakajan
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca9.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8E%96%40kakajan
+vless://b39ce73c-b6e2-4035-bc10-37e30b38bed0@141.ir:2082?path=%2F&security=none&encryption=none&host=ar.arminkarimi.shop&type=ws#%40kakajan%F0%9F%8E%96%D9%87%D9%85%D8%B1%D8%A7%D9%87
+==============================
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%40kakajan
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=%2Ffp&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=…
+
+--- Caption ---
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca20.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%40kakajan vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=%2Ffp&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=…
+==============================
+trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.mesaly.click#%F0%9F%8E%96%40kakajan
+vless://63195e63-a545-42af-a544-a79f2ff3f4d1@www.speedtest24.ir:443?path=%2Fapps%2Fandroid&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.speedtest24.ir#%40kakajan
+vless://a2776999-e61d-4dd2-9fed-7cc9476f85a1@104.26.6.159:2053?path=%2F&security=tls&encryption=none&insecure=1&host=uiz2001.bingnet.online&fp=chrome&type=ws&allowInsecure=1&sni=uiz2001.bingnet.online#%40kakajan
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=%2FTignal&security=none&encryption=none&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#%F0%9F%8E%96%40kakajan
+
+--- Caption ---
+🎖
+چندتا کانفیگ بدردبخورپینگ بگیر
+🎖
+trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.mesaly.click#%F0%9F%8E%96%40kakajan
+vless://63195e63-a545-42af-a544-a79f2ff3f4d1@www.speedtest24.ir:443?path=%2Fapps%2Fandroid&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.speedtest24.ir#%40kakajan
+vmess://eyJhZGQiOiJzMS5jb25uZWN0LmJsb3JveHkubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjMwYmVkZTc2LWI1NzYtNGVmNi1hMjllLWUyOGFhZDUxZWUzMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTA2MCIsInBzIjoiQGtha2FqYW4iLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://a2776999-e61d-4dd2-9fed-7cc9476f85a1@104.26.6.159:2053?path=%2F&security=tls&encryption=none&insecure=1&host=uiz2001.bingnet.online&fp=chrome&type=ws&allowInsecure=1&sni=uiz2001.bingnet.online#%40kakajan
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=%2FTignal&security=none&encryption=none&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#%F0%9F%8E%96%40kakajan
+==============================
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=%2Ftsghdws&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#%40kakajan
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NXlaTGVmdzhOdHF3LzU4aXJUVzJPcE1zTnV5SmpSNjFCdVJlMmdDb3hqbz06SDVLWC9WVzNTZkZGOTJ6R0ZJZUtERmtqWmd5cWpTa3Z0eFo3dCttSXphST0@s.api50951.ir:443#%40kakajan
+vless://telegramchannel-probabblynot@probabblynot.fazelextremeisreal.com:18034?security=reality&encryption=none&pbk=ph_rbwXTPE724CilY2K21PHfgfj32QL2oApFve6s1nQ&headerType=none&fp=chrome&spx=%2FH5oluBwACzwmKsC&type=tcp&sni=refersion.com&sid=ef6a0ec24e7f#%40kakajan
+vless://a2776999-e61d-4dd2-9fed-7cc9476f85a1@104.26.6.159:2053?path=%2F&security=tls&encryption=none&insecure=1&host=uiz2001.bingnet.online&fp=chrome&type=ws&allowInsecure=1&sni=uiz2001.bingnet.online#%40kakajan
+
+--- Caption ---
+🎖
+لیست جدید کانفیگ
+🎖
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=%2Ftsghdws&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#%40kakajan
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NXlaTGVmdzhOdHF3LzU4aXJUVzJPcE1zTnV5SmpSNjFCdVJlMmdDb3hqbz06SDVLWC9WVzNTZkZGOTJ6R0ZJZUtERmtqWmd5cWpTa3Z0eFo3dCttSXphST0@s.api50951.ir:443#%40kakajan
+vmess://eyJhZGQiOiJzMS5jb25uZWN0LmJsb3JveHkubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjMwYmVkZTc2LWI1NzYtNGVmNi1hMjllLWUyOGFhZDUxZWUzMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTA2MCIsInBzIjoiQGtha2FqYW4iLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://telegramchannel-probabblynot@probabblynot.fazelextremeisreal.com:18034?security=reality&encryption=none&pbk=ph_rbwXTPE724CilY2K21PHfgfj32QL2oApFve6s1nQ&headerType=none&fp=chrome&spx=%2FH5oluBwACzwmKsC&type=tcp&sni=refersion.com&sid=ef6a0ec24e7f#%40kakajan
+vless://a2776999-e61d-4dd2-9fed-7cc9476f85a1@104.26.6.159:2053?path=%2F&security=tls&encryption=none&insecure=1&host=uiz2001.bingnet.online&fp=chrome&type=ws&allowInsecure=1&sni=uiz2001.bingnet.online#%40kakajan
+==============================
+vless://a2776999-e61d-4dd2-9fed-7cc9476f85a1@104.26.6.159:2053?path=%2F&security=tls&encryption=none&insecure=1&host=uiz2001.bingnet.online&fp=chrome&type=ws&allowInsecure=1&sni=uiz2001.bingnet.online#%40kakajan
+
+--- Caption ---
+vless://a2776999-e61d-4dd2-9fed-7cc9476f85a1@104.26.6.159:2053?path=%2F&security=tls&encryption=none&insecure=1&host=uiz2001.bingnet.online&fp=chrome&type=ws&allowInsecure=1&sni=uiz2001.bingnet.online#%40kakajan
+==============================
+vless://a2776999-e61d-4dd2-9fed-7cc9476f85a1@104.26.6.159:2053?path=%2F&security=tls&encryption=none&insecure=1&host=uiz2001.bingnet.online&fp=chrome&type=ws&allowInsecure=1&sni=uiz2001.bingnet.online#%40kakajan
+
+--- Caption ---
+vless://a2776999-e61d-4dd2-9fed-7cc9476f85a1@104.26.6.159:2053?path=%2F&security=tls&encryption=none&insecure=1&host=uiz2001.bingnet.online&fp=chrome&type=ws&allowInsecure=1&sni=uiz2001.bingnet.online#%40kakajan
+==============================
+vless://InternetAzadRobot@151.101.129.164:80?mode=auto&path=%2FTignal&security=none&encryption=none&host=tignaltofansv4.global.ssl.fastly.net&type=xhttp#%40kakajan
+
+--- Caption ---
+vless://InternetAzadRobot@151.101.129.164:80?mode=auto&path=%2FTignal&security=none&encryption=none&host=tignaltofansv4.global.ssl.fastly.net&type=xhttp#%40kakajan
+==============================
+vless://79096293-1e6a-4637-81bd-5f68b10b5b81@104.19.158.39:8443?path=%2F&security=tls&encryption=none&insecure=0&host=steep-dust-ab39.fdsssssssssssssssss.workers.dev&type=ws&allowInsecure=0&sni=steep-dust-ab39.fdsssssssssssssssss.workers.dev#%40kakajan
+
+--- Caption ---
+vless://79096293-1e6a-4637-81bd-5f68b10b5b81@104.19.158.39:8443?path=%2F&security=tls&encryption=none&insecure=0&host=steep-dust-ab39.fdsssssssssssssssss.workers.dev&type=ws&allowInsecure=0&sni=steep-dust-ab39.fdsssssssssssssssss.workers.dev#%40kakajan
+==============================
