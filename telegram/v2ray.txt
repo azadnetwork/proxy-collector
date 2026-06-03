@@ -257,3 +257,53 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.myfymain.com:8880?mode=gun&se
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@
 r3mrcg001287h3p.cybervena.com:50099#%40kakajan%F0%9F%8E%96
 ==============================
+tg://proxy?server=zoom.flowaccess.site&port=8443&secret=ee47a48cbe73dd91aa66fb6f8961c5e25a7a6f6f6d2e666c6f776163636573732e73697465
+https://t.me/proxy?server=87.248.129.224&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+tg://proxy?server=37.27.192.211&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=89.167.2.246&port=8080&secret=dd104462821249bd7ac519130220c25d09
+
+--- Caption ---
+چند عدد پروکسی متصل 
+✅
+tg://proxy?server=zoom.flowaccess.site&port=8443&secret=ee47a48cbe73dd91aa66fb6f8961c5e25a7a6f6f6d2e666c6f776163636573732e73697465
+https://t.me/proxy?server=87.248.129.224&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+tg://proxy?server=37.27.192.211&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=77.42.123.140&port=8080&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=89.167.2.246&port=8080&secret=dd104462821249bd7ac519130220c25d09
+✅
+ 
+@ProxyMTProtoIR
+==============================
+vless://9b9d3913-74bb-4af2-b10d-a85656ca8a5a@185.143.235.202:443?path=%2Fn%2Fwo%2Fvlpolayer&security=tls&encryption=none&insecure=0&host=play.boxfilm.store&type=ws&allowInsecure=0&sni=play.boxfilm.store#%40kakajan
+
+--- Caption ---
+vless://9b9d3913-74bb-4af2-b10d-a85656ca8a5a@185.143.235.202:443?path=%2Fn%2Fwo%2Fvlpolayer&security=tls&encryption=none&insecure=0&host=play.boxfilm.store&type=ws&allowInsecure=0&sni=play.boxfilm.store#%40kakajan
+==============================
+vless://59ead772-ee38-4323-a04c-c11aa35a4231@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#%40kakajan
+vless://c13183ae-6c7e-4836-a749-1afe7e6f407c@snapp.ir:80?path=%2F&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#%40kakajan
+
+--- Caption ---
+vless://59ead772-ee38-4323-a04c-c11aa35a4231@snapp.ir:80?path=%2F&security=none&encryption=none&host=simorgh.garfar.ir&type=ws#%40kakajan
+vless://c13183ae-6c7e-4836-a749-1afe7e6f407c@snapp.ir:80?path=%2F&security=none&encryption=none&host=kabotar.garfar.ir&type=ws#%40kakajan
+==============================
+vless://3fecd346-ef02-4f89-b8d1-9830c37fac0b@5.175.141.113:80?path=%2FV2RayyNGvpn&security=&encryption=none&host=MeTa.GaMEreDzOnE.tOP&type=httpupgrade#%40kakajan
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=%2FTignal&security=none&encryption=none&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#%40kakajan2
+
+--- Caption ---
+vless://3fecd346-ef02-4f89-b8d1-9830c37fac0b@5.175.141.113:80?path=%2FV2RayyNGvpn&security=&encryption=none&host=MeTa.GaMEreDzOnE.tOP&type=httpupgrade#%40kakajan
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=%2FTignal&security=none&encryption=none&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#%40kakajan2
+==============================
+vless://95b20ed3-8785-4416-82e6-e0679a3ff573@server4.cikakak612.workers.dev:8080?path=%2FeyJqdW5rIjoiNzFQNDJBeDlad3EiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=none&encryption=none&host=server4.cikakak612.workers.dev&type=ws#%40kakajan
+vless://d39eb929-a188-4b10-b9ca-e975458849fa@45.63.119.228:443?security=none&encryption=none&headerType=none&type=tcp#%40kakajan
+
+--- Caption ---
+vless://95b20ed3-8785-4416-82e6-e0679a3ff573@server4.cikakak612.workers.dev:8080?path=%2FeyJqdW5rIjoiNzFQNDJBeDlad3EiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=none&encryption=none&host=server4.cikakak612.workers.dev&type=ws#%40kakajan
+vless://d39eb929-a188-4b10-b9ca-e975458849fa@45.63.119.228:443?security=none&encryption=none&headerType=none&type=tcp#%40kakajan
+==============================
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%40kakajan%F0%9F%8E%96
+
+--- Caption ---
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca17.myfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc#%40kakajan%F0%9F%8E%96
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@
+r3mrcg001287h3p.cybervena.com:50099#%40kakajan%F0%9F%8E%96
+==============================
