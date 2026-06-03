@@ -217,3 +217,41 @@ tg://proxy?server=116.203.2.157&port=4455&secret=dd104462821249bd7ac519130220c25
 tg://proxy?server=37.27.192.10&port=8443&secret=dd104462821249bd7ac519130220c25d09
 @Proxyking007
 ==============================
+https://t.me/proxy?server=87.248.129.224&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+tg://proxy?server=37.27.192.211&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=89.167.2.246&port=8080&secret=dd104462821249bd7ac519130220c25d09
+
+--- Caption ---
+چند عدد پروکسی متصل 
+✅
+tg://proxy?server=zoom.flowaccess.site&port=8443&secret=ee47a48cbe73dd91aa66fb6f8961c5e25a7a6f6f6d2e666c6f776163636573732e73697465
+https://t.me/proxy?server=87.248.129.224&port=4455&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+tg://proxy?server=37.27.192.211&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=77.42.123.140&port=8080&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=89.167.2.246&port=8080&secret=dd104462821249bd7ac519130220c25d09
+✅
+ 
+@ProxyMTProtoIR
+==============================
+https://t.me/proxy?server=46.225.255.143&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=95.216.149.83&port=155&secret=FgMBAgABAAH8AxOG4kw63Q
+https://t.me/proxy?server=172.65.130.177&port=25565&secret=FgMBAgABAAH8AxOG4kw63Q
+https://t.me/proxy?server=95.216.149.83&port=155&secret=FgMBAgABAAH8AxOG4kw63Q
+
+--- Caption ---
+https://t.me/proxy?server=204.168.152.124&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=46.225.255.143&port=4455&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=95.216.149.83&port=155&secret=FgMBAgABAAH8AxOG4kw63Q
+https://t.me/proxy?server=172.65.130.177&port=25565&secret=FgMBAgABAAH8AxOG4kw63Q
+https://t.me/proxy?server=95.216.149.83&port=155&secret=FgMBAgABAAH8AxOG4kw63Q
+پروکسی متصل
+@Proxyking007
+==============================
+tg://proxy?server=116.203.2.157&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=37.27.192.10&port=8443&secret=dd104462821249bd7ac519130220c25d09
+
+--- Caption ---
+tg://proxy?server=116.203.2.157&port=4455&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=37.27.192.10&port=8443&secret=dd104462821249bd7ac519130220c25d09
+@Proxyking007
+==============================
