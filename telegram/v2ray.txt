@@ -282,3 +282,74 @@ vless://c2401b12-8bb8-0029-abc0-89dbaea88116@se01.goodmaximum.com:443?security=r
 vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#%40kakajan
 vmess://eyJhZGQiOiJ3d3cuYXJ2YW5jbG91ZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYmFtYW5nYWRhbWJlemFuLnNwZWVkdGVzdDIwMjYuaXIiLCJpZCI6ImM1MzQwODVlLTBjNWMtNGUzMS1iM2I4LWIwZGRkZTU1MWE4MyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9odWdtZSIsInBvcnQiOiI4ODgwIiwicHMiOiJAa2FrYWphbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 ==============================
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=%2FTignal&security=none&encryption=none&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#6%F0%9F%8E%96%40kakajan%F0%9F%A6%85
+vless://InternetAzadRobot-AliKiller@151.101.193.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot07gt745.global.ssl.fastly.net&type=xhttp#%40kakajan
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=%2FTignal&security=none&encryption=none&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#8%F0%9F%8E%96%40kakajan%F0%9F%A6%85
+trojan://humanity@104.18.152.225:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40kakajan
+vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?path=%2F&security=none&encryption=none&host=azsv3.ir5ive.ir&type=ws#7%F0%9F%8E%96%40kakajan%F0%9F%A6%85
+
+--- Caption ---
+🎖
+چندتا کانفیگ
+🎖
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=%2FTignal&security=none&encryption=none&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#6%F0%9F%8E%96%40kakajan%F0%9F%A6%85
+vless://InternetAzadRobot-AliKiller@151.101.193.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot07gt745.global.ssl.fastly.net&type=xhttp#%40kakajan
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=%2FTignal&security=none&encryption=none&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#8%F0%9F%8E%96%40kakajan%F0%9F%A6%85
+trojan://humanity@104.18.152.225:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40kakajan
+vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?path=%2F&security=none&encryption=none&host=azsv3.ir5ive.ir&type=ws#7%F0%9F%8E%96%40kakajan%F0%9F%A6%85
+==============================
+trojan://humanity@www.calmloud.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%40kakajan
+
+--- Caption ---
+trojan://humanity@www.calmloud.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%40kakajan
+==============================
+vless://34f73a84-c2e6-4e88-a5d4-4579960a4490@world.mobileemdad.top:443?mode=stream-up&path=%2Fcdcg%2Fchallengeplatform%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2210%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=zBTUlZ-OhoDwNezs4yDhPVu2a6P4t7x1v7LJQHUxdDc&fp=edge&type=xhttp&sni=world.mobileemdad.top&sid=af72619c#%40kakajan
+
+--- Caption ---
+vless://34f73a84-c2e6-4e88-a5d4-4579960a4490@world.mobileemdad.top:443?mode=stream-up&path=%2Fcdcg%2Fchallengeplatform%2F&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2210%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=zBTUlZ-OhoDwNezs4yDhPVu2a6P4t7x1v7LJQHUxdDc&fp=edge&type=xhttp&sni=world.mobileemdad.top&sid=af72619c#%40kakajan
+==============================
+vless://5ad38a6c-588b-4b16-8f4e-f217811deda6@fl.gamelistak.com:443?mode=auto&path=%2F%40MrNexTV2RAY&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=fl.gamelistak.com&fp=chrome&type=xhttp&allowInsecure=0#%40kakajan
+
+--- Caption ---
+vless://5ad38a6c-588b-4b16-8f4e-f217811deda6@fl.gamelistak.com:443?mode=auto&path=%2F%40MrNexTV2RAY&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=fl.gamelistak.com&fp=chrome&type=xhttp&allowInsecure=0#%40kakajan
+==============================
+vless://18af1c9f-dba6-4d77-a732-cf6790214d10@www.speedtest.net:2086?path=%2F&security=none&encryption=none&host=beh2.salonemojallal.ir&type=httpupgrade#1%F0%9F%8E%96%40kakajan%F0%9F%94%B1
+
+--- Caption ---
+vless://18af1c9f-dba6-4d77-a732-cf6790214d10@www.speedtest.net:2086?path=%2F&security=none&encryption=none&host=beh2.salonemojallal.ir&type=httpupgrade#1%F0%9F%8E%96%40kakajan%F0%9F%94%B1
+==============================
+vless://827466ba-0910-4c48-b156-2f37fdbda362@193.23.222.99:55152?security=reality&encryption=none&pbk=fX2XkujtqhnkQDy-Lwgqm_OofDs1qO5ytvVNM6aV4C4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=ddcac8ed#7%F0%9F%8E%96%40kakajan%F0%9F%94%B1
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@nuclear.us.kg:443?path=%2Ffree%2F103.101.153.32%3A443&security=tls&encryption=none&insecure=0&host=nuclear.us.kg&type=ws&allowInsecure=0&sni=nuclear.us.kg#6%F0%9F%8E%96%40kakajan%F0%9F%94%B1
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40kakajan
+
+--- Caption ---
+vless://827466ba-0910-4c48-b156-2f37fdbda362@193.23.222.99:55152?security=reality&encryption=none&pbk=fX2XkujtqhnkQDy-Lwgqm_OofDs1qO5ytvVNM6aV4C4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cloudflare.com&sid=ddcac8ed#7%F0%9F%8E%96%40kakajan%F0%9F%94%B1
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@nuclear.us.kg:443?path=%2Ffree%2F103.101.153.32%3A443&security=tls&encryption=none&insecure=0&host=nuclear.us.kg&type=ws&allowInsecure=0&sni=nuclear.us.kg#6%F0%9F%8E%96%40kakajan%F0%9F%94%B1
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40kakajan
+==============================
+vless://c931f737-cafe-4e4f-998a-a65517941256@185.242.247.206:8443?security=reality&encryption=none&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=88ce6b586fcaf681#5%F0%9F%8E%96%40kakajan%E2%9A%93
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%9A%80%40kakajan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%E2%99%9F%EF%B8%8F9%F0%9F%8E%96%40kakajan
+vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@150.241.71.35:443?security=reality&encryption=none&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com#%40kakajan%F0%9F%8E%96
+vless://5ad38a6c-588b-4b16-8f4e-f217811deda6@fl.gamelistak.com:443?mode=auto&path=%2F%40MrNexTV2RAY&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=fl.gamelistak.com&fp=chrome&type=xhttp&allowInsecure=0#%40kakajan
+vless://1bf1204e-399e-4f67-8c74-5b0ef057d8c6@162.159.6.197:443?path=%2F&security=tls&encryption=none&insecure=0&host=rough-heart-50e4.aliahmadi11155.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=rough-heart-50e4.aliahmadi11155.workers.dev#1%F0%9F%8E%96%40kakajan%F0%9F%A6%84
+vless://346b6e85-8874-4f58-870b-2539b4354dba@165.215.250.12:2086?mode=packet-up&path=%2F&security=none&encryption=none&host=xvh.andishehparenting.com&type=xhttp#%40kakajan
+vless://c2401b12-8bb8-0029-abc0-89dbaea88116@se01.goodmaximum.com:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=firefox&type=tcp&sni=sablefrost.com&sid=31181028b56c8704#%40kakajan
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#%40kakajan
+
+--- Caption ---
+🎖
+اینارم بزنید تست کنید
+🎖
+vless://c931f737-cafe-4e4f-998a-a65517941256@185.242.247.206:8443?security=reality&encryption=none&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=88ce6b586fcaf681#5%F0%9F%8E%96%40kakajan%E2%9A%93
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880?mode=gun&security=&encryption=none&type=grpc#%F0%9F%9A%80%40kakajan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%E2%99%9F%EF%B8%8F9%F0%9F%8E%96%40kakajan
+vless://4f51ca84-43ea-4087-b8a2-938e0ccbe27a@150.241.71.35:443?security=reality&encryption=none&pbk=mDDDyruO33nuqcTS7pZOjd9oOpDHUf0aEv2TQ1DFGV4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com#%40kakajan%F0%9F%8E%96
+vless://5ad38a6c-588b-4b16-8f4e-f217811deda6@fl.gamelistak.com:443?mode=auto&path=%2F%40MrNexTV2RAY&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=fl.gamelistak.com&fp=chrome&type=xhttp&allowInsecure=0#%40kakajan
+vless://1bf1204e-399e-4f67-8c74-5b0ef057d8c6@162.159.6.197:443?path=%2F&security=tls&encryption=none&insecure=0&host=rough-heart-50e4.aliahmadi11155.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=rough-heart-50e4.aliahmadi11155.workers.dev#1%F0%9F%8E%96%40kakajan%F0%9F%A6%84
+vless://346b6e85-8874-4f58-870b-2539b4354dba@165.215.250.12:2086?mode=packet-up&path=%2F&security=none&encryption=none&host=xvh.andishehparenting.com&type=xhttp#%40kakajan
+vless://0b0f0f45-b79a-4647-b466-d7879cd4aeea@45.92.219.119:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d82fb387#%40kakajan
+vless://c2401b12-8bb8-0029-abc0-89dbaea88116@se01.goodmaximum.com:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&headerType=none&fp=firefox&type=tcp&sni=sablefrost.com&sid=31181028b56c8704#%40kakajan
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#%40kakajan
+vmess://eyJhZGQiOiJ3d3cuYXJ2YW5jbG91ZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYmFtYW5nYWRhbWJlemFuLnNwZWVkdGVzdDIwMjYuaXIiLCJpZCI6ImM1MzQwODVlLTBjNWMtNGUzMS1iM2I4LWIwZGRkZTU1MWE4MyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9odWdtZSIsInBvcnQiOiI4ODgwIiwicHMiOiJAa2FrYWphbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+==============================
