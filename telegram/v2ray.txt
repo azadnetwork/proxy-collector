@@ -675,3 +675,61 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=%2Ffp&secu
 🏆
  vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=%2Ffp&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.…
 ==============================
+trojan://humanity@172.66.47.69:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%40kakajan
+
+--- Caption ---
+trojan://humanity@172.66.47.69:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%40kakajan
+==============================
+trojan://humanity@66.81.247.155:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%40kakajan
+
+--- Caption ---
+trojan://humanity@66.81.247.155:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%40kakajan
+==============================
+vless://c466ef48-fb57-40c6-808d-ee48d537844d@104.17.121.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=kakoolnews.kakooolnews.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=kakoolnews.kakooolnews.workers.dev#%40kakajan
+
+--- Caption ---
+vless://c466ef48-fb57-40c6-808d-ee48d537844d@104.17.121.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=kakoolnews.kakooolnews.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=kakoolnews.kakooolnews.workers.dev#%40kakajan
+==============================
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@66.81.247.248:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#%F0%9F%8E%96%40kakajan
+vless://c931f737-cafe-4e4f-998a-a65517941256@185.242.247.206:8443?security=reality&encryption=none&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=88ce6b586fcaf681#%F0%9F%8E%96%40kakajan
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?security=reality&encryption=none&pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=25425ff6fa#3%F0%9F%8E%96%40kakajan%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#%40kakajan
+
+--- Caption ---
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@66.81.247.248:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&type=ws&allowInsecure=0&sni=octopusss4.com#%F0%9F%8E%96%40kakajan
+vless://c931f737-cafe-4e4f-998a-a65517941256@185.242.247.206:8443?security=reality&encryption=none&pbk=Ubibgn_MlW_zHo9LwjNH_b6SLNWwTJFwq7wW2ggLtUs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=88ce6b586fcaf681#%F0%9F%8E%96%40kakajan
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?security=reality&encryption=none&pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=25425ff6fa#3%F0%9F%8E%96%40kakajan%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#%40kakajan
+==============================
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=%2Ffp&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#2%F0%9F%8E%96%40kakajan%F0%9F%9B%B8
+vless://70a719c5-663e-4186-a32d-29a3f6361a72@wEb.sUbStEr.iR:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=chIKArMiKoNi.X-UpLoAd.oRG&type=ws&allowInsecure=0&sni=chIKArMiKoNi.X-UpLoAd.oRG#%40kakajan
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#11%F0%9F%8E%96%40kakajan%F0%9F%92%9C
+vless://70a719c5-663e-4186-a32d-29a3f6361a72@185.143.235.253:2095?path=%2FTV&security=none&encryption=none&host=eLaHiToKoMaKkOn.aRvHaMrAh.iR&type=ws#%40kakajan
+vless://9e586f14-ae99-4ad6-8b20-ca8965614173@188.114.97.6:2083?path=%2F&security=tls&encryption=none&insecure=0&host=submci.mcim4net.workers.dev&fp=random&type=ws&allowInsecure=0&sni=submci.mcim4net.workers.dev#%40kakajan
+vless://70a719c5-663e-4186-a32d-29a3f6361a72@185.143.235.253:2052?path=%2FTV&security=none&encryption=none&host=eLaHiToKoMaKkOn3.aRvHaMrAh.iR&type=ws#%40kakajan
+vless://70a719c5-663e-4186-a32d-29a3f6361a72@185.143.235.253:2082?path=%2FTV&security=none&encryption=none&host=eLaHiToKoMaKkOn2.aRvHaMrAh.iR&type=ws#%40kakajan
+vless://70a719c5-663e-4186-a32d-29a3f6361a72@snapp.ir:2082?path=%2FTV&security=none&encryption=none&host=eLaHiToKoMaKkOn1.aRvHaMrAh.iR&type=ws#%40kakajan
+vless://70a719c5-663e-4186-a32d-29a3f6361a72@bLiT55.hAmRaHcOrE.iR:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#%40kakajan
+
+--- Caption ---
+🏆
+چندتا کانفیگ پینگ عالی
+🏆
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=%2Ffp&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#2%F0%9F%8E%96%40kakajan%F0%9F%9B%B8
+vless://70a719c5-663e-4186-a32d-29a3f6361a72@wEb.sUbStEr.iR:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=chIKArMiKoNi.X-UpLoAd.oRG&type=ws&allowInsecure=0&sni=chIKArMiKoNi.X-UpLoAd.oRG#%40kakajan
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#11%F0%9F%8E%96%40kakajan%F0%9F%92%9C
+vless://70a719c5-663e-4186-a32d-29a3f6361a72@185.143.235.253:2095?path=%2FTV&security=none&encryption=none&host=eLaHiToKoMaKkOn.aRvHaMrAh.iR&type=ws#%40kakajan
+vless://9e586f14-ae99-4ad6-8b20-ca8965614173@188.114.97.6:2083?path=%2F&security=tls&encryption=none&insecure=0&host=submci.mcim4net.workers.dev&fp=random&type=ws&allowInsecure=0&sni=submci.mcim4net.workers.dev#%40kakajan
+vless://70a719c5-663e-4186-a32d-29a3f6361a72@185.143.235.253:2052?path=%2FTV&security=none&encryption=none&host=eLaHiToKoMaKkOn3.aRvHaMrAh.iR&type=ws#%40kakajan
+vless://70a719c5-663e-4186-a32d-29a3f6361a72@185.143.235.253:2082?path=%2FTV&security=none&encryption=none&host=eLaHiToKoMaKkOn2.aRvHaMrAh.iR&type=ws#%40kakajan
+vless://70a719c5-663e-4186-a32d-29a3f6361a72@snapp.ir:2082?path=%2FTV&security=none&encryption=none&host=eLaHiToKoMaKkOn1.aRvHaMrAh.iR&type=ws#%40kakajan
+vless://70a719c5-663e-4186-a32d-29a3f6361a72@bLiT55.hAmRaHcOrE.iR:719?path=%2Fapi%2Fv2%2Fxtrnwqjbkr%3Fed%3D2560&security=none&encryption=none&host=play.google.com&type=ws#%40kakajan
+==============================
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=%2Ffp&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.…
+
+--- Caption ---
+🏆
+چندتا کانفیگ پینگ عالی
+🏆
+ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=%2Ffp&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.…
+==============================
