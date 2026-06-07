@@ -1171,3 +1171,28 @@ vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?security=reality&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@
 r3mrcg001269pz2.cybervena.com:50099#2%F0%9F%8E%96%40kakajan%F0%9F%9A%81
 ==============================
+trojan://humanity@www.calmloud.com:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#6%F0%9F%9A%80%40kakajan
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#6%F0%9F%8E%96%40kakajan%F0%9F%8F%86
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&type=tcp&sni=yastatic.net&sid=5e841fab#8%F0%9F%8E%96%40kakajan%F0%9F%9A%80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#3%F0%9F%8E%96%40kakajan%F0%9F%92%AF
+vless://36796640-99ff-4834-a43e-5336b6afe450@188.114.97.6:8443?mode=auto&path=%2Ftake&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=s3.alivpn.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.alivpn.qzz.io#2%F0%9F%8E%96%40kakajan%F0%9F%92%AF
+vless://b3d66746-93ba-4f3d-83a5-e56cd680fbd3@169.40.32.171:443?security=reality&encryption=none&pbk=SEMSzhf2LCuWAQyMNwV7OkKxWcwuYUGoWzfT6bELNQQ&headerType=none&fp=firefox&spx=%2FOynXyiBYW759Jql&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=19048c18495e3d29#%40kakajan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#7%F0%9F%8E%96%40kakajan%F0%9F%92%9C
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?security=reality&encryption=none&pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=25425ff6fa#%40kakajan
+
+--- Caption ---
+🎖
+چندتا کانفیگ بدرد بخور
+🎖
+vmess://eyJhZGQiOiJkZTUudGFza2Zsb3dodWIub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNhNThiMTY1LTBmN2QtNDlhYS05ZmFlLWEwMTdlOGEwZjg4NCIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA1MyIsInBzIjoiQGtha2FqYW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+trojan://humanity@www.calmloud.com:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#6%F0%9F%9A%80%40kakajan
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@85.234.114.53:22231?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=r1.mizulina.top#6%F0%9F%8E%96%40kakajan%F0%9F%8F%86
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@fi2.vitok.cc:443?security=reality&encryption=none&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&headerType=none&type=tcp&sni=yastatic.net&sid=5e841fab#8%F0%9F%8E%96%40kakajan%F0%9F%9A%80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#3%F0%9F%8E%96%40kakajan%F0%9F%92%AF
+vless://36796640-99ff-4834-a43e-5336b6afe450@188.114.97.6:8443?mode=auto&path=%2Ftake&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=s3.alivpn.qzz.io&fp=chrome&type=xhttp&allowInsecure=0&sni=s3.alivpn.qzz.io#2%F0%9F%8E%96%40kakajan%F0%9F%92%AF
+vless://b3d66746-93ba-4f3d-83a5-e56cd680fbd3@169.40.32.171:443?security=reality&encryption=none&pbk=SEMSzhf2LCuWAQyMNwV7OkKxWcwuYUGoWzfT6bELNQQ&headerType=none&fp=firefox&spx=%2FOynXyiBYW759Jql&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=19048c18495e3d29#%40kakajan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#7%F0%9F%8E%96%40kakajan%F0%9F%92%9C
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@213.176.77.65:443?security=reality&encryption=none&pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=25425ff6fa#%40kakajan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@
+r3mrcg001269pz2.cybervena.com:50099#2%F0%9F%8E%96%40kakajan%F0%9F%9A%81
+==============================
