@@ -563,3 +563,75 @@ vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?path=%2Fvless&se
 trojan://humanity@141.193.213.30:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%40kakajan
 trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.registry-monitor.click#%40kakajan
 ==============================
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#7%F0%9F%8E%96%40kakajan%F0%9F%A5%A5
+trojan://humanity@172.66.47.69:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#5%F0%9F%8E%96%40kakajan%F0%9F%97%BF
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4%F0%9F%8E%96%40kakajan%F0%9F%92%AF
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=%2Ffp&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#5%F0%9F%8E%96%40kakajan%F0%9F%92%AF
+vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@130.12.242.102:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d82fb387#8%F0%9F%8E%96%40kakajan%F0%9F%8E%87
+
+--- Caption ---
+🎖
+اینارو داشته باشید
+🎖
+تا بریم بعدی
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#7%F0%9F%8E%96%40kakajan%F0%9F%A5%A5
+trojan://humanity@172.66.47.69:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#5%F0%9F%8E%96%40kakajan%F0%9F%97%BF
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4%F0%9F%8E%96%40kakajan%F0%9F%92%AF
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=%2Ffp&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#5%F0%9F%8E%96%40kakajan%F0%9F%92%AF
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206RFQwbWk1OVY0YTlTZTlFaHlvbnl1cHRWZkllM29KcElyekQvZmE4VzE3VT06U0NmNmN1cVBuZWFOd0NPS3pZa09uRVRmaWgxUkNVYzZrUmlvMmhQeURuZz0@
+91.107.191.12:54471#13%F0%9F%8E%96%40kakajan%F0%9F%92%A3
+vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@130.12.242.102:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=d82fb387#8%F0%9F%8E%96%40kakajan%F0%9F%8E%87
+vless://82a114fc-1760-4833-aacb-69887fe94f40@aa.nerdsfeed.com:2095?mode=stream-one&path=%2Finvalid%2Fapi%2Ftype%2Fkey&security=reality&encryption=mlkem768x25519plus.native.0rtt.nCh1CLzIKn7KRTVDcOg_2WRJNLySR9MSvHPrKjnHswM&pbk=zJFz_giueKfUBJuG-rb91_-PQUnU45J7agIKcVM4c1o&fp=randomized&spx=%2Fcache%2Fid&type=xhttp&sni=chatgpt.com&sid=0e40#%40kakajan
+==============================
+trojan://humanity@141.193.213.10:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%40kakajan
+vless://58e82e36-32e4-4368-8742-f51446c3fd28@45.130.125.66:443?mode=auto&path=%2F476T682e67a4f84a3c838ca94R86273&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%2210-50%22%2C%22xPaddingHeader%22%3A%22apinode%22%2C%22xPaddingKey%22%3A%22domow%22%2C%22xPaddingObfsMode%22%3Atrue%7D&insecure=0&host=ticket.fibernet1.qzz.io&fp=chrome&type=xhttp&allowInsecure=0#%40kakajan
+vless://0d8691c0-701f-4f6a-a0f4-21c0bbe5734a@188.130.206.60:2086?security=reality&encryption=none&pbk=dS6ROWfqR5Ij9lofNoaXs3596CvS_qrfUmJh2WgFDW0&headerType=none&fp=edge&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=781524408f#%40kakajan
+vless://36ca3135-0164-417a-8eb5-038c74b8443c@162.19.181.42:443?path=%2F&security=none&encryption=none&host=dfloow.ir&type=ws#%40kakajan
+
+--- Caption ---
+🎖
+چندتا کانفیگ
+🎖
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@
+r3mrcg001269pz2.cybervena.com:50099#%40kakajan
+trojan://humanity@141.193.213.10:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%40kakajan
+vless://58e82e36-32e4-4368-8742-f51446c3fd28@45.130.125.66:443?mode=auto&path=%2F476T682e67a4f84a3c838ca94R86273&security=tls&alpn=h2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%2210-50%22%2C%22xPaddingHeader%22%3A%22apinode%22%2C%22xPaddingKey%22%3A%22domow%22%2C%22xPaddingObfsMode%22%3Atrue%7D&insecure=0&host=ticket.fibernet1.qzz.io&fp=chrome&type=xhttp&allowInsecure=0#%40kakajan
+vless://0d8691c0-701f-4f6a-a0f4-21c0bbe5734a@188.130.206.60:2086?security=reality&encryption=none&pbk=dS6ROWfqR5Ij9lofNoaXs3596CvS_qrfUmJh2WgFDW0&headerType=none&fp=edge&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=781524408f#%40kakajan
+vless://8eaf5413-3d90-456d-b348-5acedda32c50@confi.sdfklsdflkj.shop:80?security=reality&encryption=none&pbk=he77TJz6fWN6PRCAF-l4RyAVcWlEgzI9Yetccc-tWAw&headerType=none&fp=chrome&spx=%2FypFPinnn2Bg4Yq4&type=tcp&sni=www.oracle.com&sid=302c#%40kakajan
+vmess://eyJhZGQiOiJzdGF0aWMuY2xvdWRmbGFyZWluc2lnaHRzLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJhYWEuci1vLW8tdDMuaXIiLCJpZCI6IjA5NTQ4NTcxLTM2NGUtNDg3Ni04ZTkyLTk4ZjQyM2U3MzkxMyIsImluc2VjdXJlIjoiMCIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9hWHR6MXNUM1l1TVllMU1acE5aIiwicG9ydCI6IjQ0MyIsInBzIjoiQGtha2FqYW4iLCJzY3kiOiJhdXRvIiwic25pIjoiYWFhLnItby1vLXQzLmlyIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vless://36ca3135-0164-417a-8eb5-038c74b8443c@162.19.181.42:443?path=%2F&security=none&encryption=none&host=dfloow.ir&type=ws#%40kakajan
+==============================
+trojan://KaQKzYh6dd@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=dd.aananas.ir.#%40kakajan
+vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@45.86.159.171:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=be0ce047#%40kakajan
+trojan://If14dbc539cc713de2cf87@ip1.hostparsa.ir:443?mode=auto&path=%2Fdownload&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=x1-dpim9mztudx78ieloo1t.parsiclouds.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=x1-dpim9mztudx78ieloo1t.parsiclouds.ir#%40kakajan
+vless://5cdf99d3-a51b-570e-8245-f87d674dc652@151.101.193.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot31dx253.global.ssl.fastly.net&type=xhttp#%40kakajan
+vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?path=%2Fvless&security=none&encryption=none&type=ws#%40kakajan
+trojan://humanity@141.193.213.30:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%40kakajan
+trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.registry-monitor.click#%40kakajan
+
+--- Caption ---
+🎖
+چندتا ویتوری ویتوباکس نپستر
+🎖
+trojan://KaQKzYh6dd@188.114.97.6:443?path=%2F%3Fed%3D2048&security=tls&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=dd.aananas.ir.#%40kakajan
+vless://6ca8ea5b-e47f-4c19-adee-365456e1e87c@45.86.159.171:7443?security=reality&encryption=none&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=be0ce047#%40kakajan
+trojan://If14dbc539cc713de2cf87@ip1.hostparsa.ir:443?mode=auto&path=%2Fdownload&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=x1-dpim9mztudx78ieloo1t.parsiclouds.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=x1-dpim9mztudx78ieloo1t.parsiclouds.ir#%40kakajan
+vless://5cdf99d3-a51b-570e-8245-f87d674dc652@151.101.193.57:80?mode=auto&path=%2F&security=none&encryption=none&host=InternetAzadRobot31dx253.global.ssl.fastly.net&type=xhttp#%40kakajan
+vless://12e2b366-6426-4e09-9c6f-9c894262b923@de2.niekotin.de:80?path=%2Fvless&security=none&encryption=none&type=ws#%40kakajan
+trojan://humanity@141.193.213.30:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%40kakajan
+trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.registry-monitor.click#%40kakajan
+==============================
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#%40kakajan
+vless://0ce1f2f1-a401-44ca-a574-a51d1a50d7b1@snapp.ir:2052?path=%2FDark-vpn&security=none&encryption=none&host=vpn.ksmrx.ir&type=ws#%40kakajan
+vless://9ec1469c-1b8b-4109-b8e9-020800af8ec9@188.114.97.6:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=argoovpn.imanaghapour.ir&fp=chrome&type=ws&allowInsecure=0&sni=argoovpn.imanaghapour.ir#%40kakajan
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.137:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#%40kakajan
+
+--- Caption ---
+🎖
+چند عدد ویتوری ویتوباکس نپستر 
+🎖
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.69:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#%40kakajan
+vless://0ce1f2f1-a401-44ca-a574-a51d1a50d7b1@snapp.ir:2052?path=%2FDark-vpn&security=none&encryption=none&host=vpn.ksmrx.ir&type=ws#%40kakajan
+vless://9ec1469c-1b8b-4109-b8e9-020800af8ec9@188.114.97.6:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=argoovpn.imanaghapour.ir&fp=chrome&type=ws&allowInsecure=0&sni=argoovpn.imanaghapour.ir#%40kakajan
+vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.137:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#%40kakajan
+==============================
