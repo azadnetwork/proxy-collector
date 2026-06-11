@@ -223,3 +223,27 @@ vless://82a114fc-1760-4833-aacb-69887fe94f40@aa.nerdsfeed.com:2095?mode=stream-o
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#2%F0%9F%8E%96%40kakajan%F0%9F%9B%AC
 trojan://rayvwkrwcs@ir6.mlander.online:6042?security=tls&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=ir6.mlander.online#1%F0%9F%8E%96%40kakajan%F0%9F%9B%AC
 ==============================
+trojan://humanity@104.19.2.175:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#6%F0%9F%8E%96%40kakajan%F0%9F%9B%AC
+trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#12%F0%9F%8E%96%40kakajan
+trojan://humanity@198.62.62.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#7%F0%9F%8E%96%40kakajan%F0%9F%9B%AC
+vless://6cb2af25-9d59-43bd-a8fa-682e4898e081@dk.maximum-vpn.com:443?security=reality&encryption=none&pbk=roCvVZ0atQ-_68OSDPuknzHchm6djGzQB4Ydl5n31Fg&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#5%F0%9F%8E%96%40kakajan%F0%9F%9B%AC
+trojan://humanity@198.62.62.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4%F0%9F%8E%96%40kakajan%F0%9F%9B%AC
+trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#4%F0%9F%8E%96%40kakajan%F0%9F%9B%AC
+vless://82a114fc-1760-4833-aacb-69887fe94f40@aa.nerdsfeed.com:2095?mode=stream-one&path=%2Finvalid%2Fapi%2Ftype%2Fkey&security=reality&encryption=mlkem768x25519plus.native.0rtt.nCh1CLzIKn7KRTVDcOg_2WRJNLySR9MSvHPrKjnHswM&pbk=zJFz_giueKfUBJuG-rb91_-PQUnU45J7agIKcVM4c1o&fp=chrome&spx=%2Fcache%2Fid&type=xhttp&sni=chatgpt.com&sid=0e40#3%F0%9F%8E%96%40kakajan%F0%9F%9B%AC
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#2%F0%9F%8E%96%40kakajan%F0%9F%9B%AC
+
+--- Caption ---
+🎖
+چندتا ویتوری ویتوباکس نپستر تست شده ایرانسل همراه اول
+🎖
+بقیه روحتما تست بزنید توش پرسرعت هست
+trojan://humanity@104.19.2.175:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#6%F0%9F%8E%96%40kakajan%F0%9F%9B%AC
+trojan://humanity@216.24.57.1:443?path=%2Fassignment&security=tls&insecure=0&ech=54.mk%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmloud.com#12%F0%9F%8E%96%40kakajan
+trojan://humanity@198.62.62.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#7%F0%9F%8E%96%40kakajan%F0%9F%9B%AC
+vless://6cb2af25-9d59-43bd-a8fa-682e4898e081@dk.maximum-vpn.com:443?security=reality&encryption=none&pbk=roCvVZ0atQ-_68OSDPuknzHchm6djGzQB4Ydl5n31Fg&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#5%F0%9F%8E%96%40kakajan%F0%9F%9B%AC
+trojan://humanity@198.62.62.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4%F0%9F%8E%96%40kakajan%F0%9F%9B%AC
+trojan://humanity@104.16.7.70:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#4%F0%9F%8E%96%40kakajan%F0%9F%9B%AC
+vless://82a114fc-1760-4833-aacb-69887fe94f40@aa.nerdsfeed.com:2095?mode=stream-one&path=%2Finvalid%2Fapi%2Ftype%2Fkey&security=reality&encryption=mlkem768x25519plus.native.0rtt.nCh1CLzIKn7KRTVDcOg_2WRJNLySR9MSvHPrKjnHswM&pbk=zJFz_giueKfUBJuG-rb91_-PQUnU45J7agIKcVM4c1o&fp=chrome&spx=%2Fcache%2Fid&type=xhttp&sni=chatgpt.com&sid=0e40#3%F0%9F%8E%96%40kakajan%F0%9F%9B%AC
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#2%F0%9F%8E%96%40kakajan%F0%9F%9B%AC
+trojan://rayvwkrwcs@ir6.mlander.online:6042?security=tls&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&sni=ir6.mlander.online#1%F0%9F%8E%96%40kakajan%F0%9F%9B%AC
+==============================
