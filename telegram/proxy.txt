@@ -179,3 +179,17 @@ tg://proxy?server=65.109.220.158&port=4455&secret=dd104462821249bd7ac519130220c2
 ♦
 https://t.me/proxymotad
 ==============================
+tg://proxy?server=65.109.220.158&port=4455&secret=dd104462821249bd7ac519130220c25d09
+
+--- Caption ---
+🏅
+پروکسی بدون فیلترشکن سرعت خوب
+ 
+🏅
+tg://proxy?server=65.109.220.158&port=4455&secret=dd104462821249bd7ac519130220c25d09
+♦
+مخصوص نت ملی
+ 
+♦
+https://t.me/proxymotad
+==============================
