@@ -39,3 +39,16 @@ https://t.me/proxy?server=167.233.101.58&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjj
  
 @ProxyMTProtoIR
 ==============================
+https://t.me/proxy?server=49.13.209.101&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+--- Caption ---
+پروکسی متصل
+✔️
+ 
+🇩🇪
+https://t.me/proxy?server=49.13.209.101&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+https://t.me/proxy?server=167.233.101.58&port=8080&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+✅
+ 
+@ProxyMTProtoIR
+==============================
