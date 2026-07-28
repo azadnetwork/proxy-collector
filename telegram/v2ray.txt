@@ -67,3 +67,26 @@ trojan://JT80563429@fair-ram.rooster465.autos:443?allowInsecure=0&sni=fair-ram.r
 [openproxylist.com] trojan-KR
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1ISyIsImFkZCI6ImVqb21zeHB0cDE5YXB5Z2wudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC93cy12bWVzcyIsImhvc3QiOiJlak9Nc3hQdFAxOUFQeUdMLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 ==============================
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@172.66.44.97:443?path=%2Frsedgws%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=shegeftihaaa.net#%E2%99%A0kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B18
+vless://c19735a7-ff97-a112-3f07-60e500f7719b@162.159.140.91:443?path=%2F---%40MiTiVPN--windows&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=Uu--sS--Aa.maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=U--s--a.maqror.ir#%E2%99%A0kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B19
+trojan://MiTiVPN@45.130.125.0:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fsw&security=tls&alpn=http%2F1.1&insecure=1&host=swss-mitivpn--MiTiVPN---MiTiVPN--o.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=swsjh--MiTiVPN---MiTiVPN-ao.aPp-cLoud.IR#%E2%99%A0kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B17
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20085?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=hk.catxstar.com#%E2%99%A0kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B15
+trojan://JT80563429@fair-ram.rooster465.autos:443?allowInsecure=0&sni=fair-ram.rooster465.autos#
+
+--- Caption ---
+چندتا ویتوباکس ویتوری 
+vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@172.66.44.97:443?path=%2Frsedgws%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=shegeftihaaa.net#%E2%99%A0kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B18
+vless://c19735a7-ff97-a112-3f07-60e500f7719b@162.159.140.91:443?path=%2F---%40MiTiVPN--windows&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=Uu--sS--Aa.maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=U--s--a.maqror.ir#%E2%99%A0kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B19
+trojan://MiTiVPN@45.130.125.0:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fsw&security=tls&alpn=http%2F1.1&insecure=1&host=swss-mitivpn--MiTiVPN---MiTiVPN--o.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=swsjh--MiTiVPN---MiTiVPN-ao.aPp-cLoud.IR#%E2%99%A0kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B17
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZMlF3WlRRME1EWXpPV0ZoTmpBNVltRTBOVFpoTldGa09Ea3pNV05tT0RVPQ@
+161.118.215.232:56927#%E2%99%A0kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B16
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20085?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=hk.catxstar.com#%E2%99%A0kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B15
+vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IuKZoGtha2FqYW5A8J+Oltiz2LHZiNixNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+trojan://BxceQaOe@18.163.208.174:45691?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%252Fripaojiedian#%E2%99%A0kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B13
+trojan://BxceQaOe@95.40.61.23:11035?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#%E2%99%A0kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B12
+vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjY1YTJkNjktNTYzNC00MmEyLWU0YmUtNTRlOGE2MTc2OTAwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IuKZoGtha2FqYW5A8J+Oltiz2LHZiNixMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+trojan://JT80563429@fair-ram.rooster465.autos:443?allowInsecure=0&sni=fair-ram.rooster465.autos#
+🇰🇷
+[openproxylist.com] trojan-KR
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1ISyIsImFkZCI6ImVqb21zeHB0cDE5YXB5Z2wudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC93cy12bWVzcyIsImhvc3QiOiJlak9Nc3hQdFAxOUFQeUdMLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+==============================
