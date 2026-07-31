@@ -84,3 +84,24 @@ trojan://521314@wangcai.yunzhongzhuan.com:443?path=Telegram%F0%9F%87%A8%F0%9F%87
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@173.245.58.75:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#%E2%99%A6kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B12
 vless://52745f29-d8da-4cb7-9f95-401b946524e7@159.195.18.58:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&fp=safari&type=grpc&serviceName=neurex&sni=disk.yandex.ru&sid=10ffb85da1c2d986#%40kakajan
 ==============================
+trojan://humanity@172.66.44.211:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%AA%B0kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B1
+vless://7968c546-02dc-4f8c-b791-934591a94cb2@cf.levikogjgfdd.ir:443?path=%2Fcbasur&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#%40kakajan
+trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%E2%9A%A7%EF%B8%8Fkakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B13
+trojan://MiTiVPN@188.114.96.3:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FN-l&security=tls&alpn=http%2F1.1&insecure=1&host=Ams-mitivpn--MiTiVPN---MiTiVPN-o.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=Nl-o-MiTiVPN---MiTiVPNj.aPp-cLoud.IR#%E2%99%A6kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B14
+trojan://MiTiVPN@188.114.98.0:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FS-ws&security=tls&alpn=http%2F1.1&insecure=1&host=sw--ss-mitivpn--MiTiVPN---MiTiVPN--o.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=sw--MiTiVPN---MiTiVPN-ao.aPp-cLoud.IR#%E2%99%A6kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B13
+trojan://521314@wangcai.yunzhongzhuan.com:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#%E2%99%A6kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B11
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@173.245.58.75:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#%E2%99%A6kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B12
+
+--- Caption ---
+♦
+چندتا کانفیگ ویتوری و ویتوباکس 
+♦
+trojan://humanity@172.66.44.211:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%AA%B0kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B1
+vless://7968c546-02dc-4f8c-b791-934591a94cb2@cf.levikogjgfdd.ir:443?path=%2Fcbasur&security=tls&encryption=none&insecure=0&host=hhvl.hhapp.kdns.fr&type=ws&allowInsecure=0&sni=hhvl.hhapp.kdns.fr#%40kakajan
+trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%E2%9A%A7%EF%B8%8Fkakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B13
+trojan://MiTiVPN@188.114.96.3:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FN-l&security=tls&alpn=http%2F1.1&insecure=1&host=Ams-mitivpn--MiTiVPN---MiTiVPN-o.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=Nl-o-MiTiVPN---MiTiVPNj.aPp-cLoud.IR#%E2%99%A6kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B14
+trojan://MiTiVPN@188.114.98.0:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FS-ws&security=tls&alpn=http%2F1.1&insecure=1&host=sw--ss-mitivpn--MiTiVPN---MiTiVPN--o.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=sw--MiTiVPN---MiTiVPN-ao.aPp-cLoud.IR#%E2%99%A6kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B13
+trojan://521314@wangcai.yunzhongzhuan.com:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#%E2%99%A6kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B11
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@173.245.58.75:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#%E2%99%A6kakajan%40%F0%9F%8E%96%D8%B3%D8%B1%D9%88%D8%B12
+vless://52745f29-d8da-4cb7-9f95-401b946524e7@159.195.18.58:16923?mode=gun&security=reality&encryption=none&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&fp=safari&type=grpc&serviceName=neurex&sni=disk.yandex.ru&sid=10ffb85da1c2d986#%40kakajan
+==============================
