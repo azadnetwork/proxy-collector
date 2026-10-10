@@ -10,3 +10,9 @@ tg://proxy?server=srv-eggooc.mtp-at.lol&port=443&secret=ee251e38db136e1ce2047237
 tg://proxy?server=srv-eggooc.mtp-at.lol&port=443&secret=ee251e38db136e1ce2047237c71e5e1e86646c2e676f6f676c652e636f6d
 وصله؟
 ==============================
+tg://proxy?server=srv-eggooc.mtp-at.lol&port=443&secret=ee251e38db136e1ce2047237c71e5e1e86646c2e676f6f676c652e636f6d
+
+--- Caption ---
+tg://proxy?server=srv-eggooc.mtp-at.lol&port=443&secret=ee251e38db136e1ce2047237c71e5e1e86646c2e676f6f676c652e636f6d
+وصله؟
+==============================
